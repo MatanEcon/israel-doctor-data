@@ -1,0 +1,10 @@
+                   Metric  Value
+0           Total Records  65619
+1             MOH Records  62818
+2      MedReviews Records   2801
+3        Doctorim Records   2801
+4                  Clalit    501
+5                 Maccabi    468
+6                Meuhedet    328
+7                  Leumit    315
+8  Doctors with Kupa Info    866

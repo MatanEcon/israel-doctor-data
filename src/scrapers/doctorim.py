@@ -6,6 +6,7 @@ Scraper for Doctorim.co.il - Doctor appointment scheduling site
 import re
 from typing import List, Dict, Optional
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from src.base_scraper import BaseScraper
 from src.config import DoctorRecord, KUPA_CHOLIM
@@ -177,6 +178,32 @@ class DoctorimScraper(BaseScraper):
                 self.logger.error(f"Error on page {page}: {e}")
 
             self._random_delay()
+
+        return records
+
+    def scrape_specialty_parallel(self, spec_id: str, spec_name: str = "", max_pages: int = None, workers: int = 5) -> List[DoctorRecord]:
+        """Scrape all pages for a specialty using parallel requests."""
+        records = []
+        total_pages = self.get_total_pages(spec_id)
+
+        if max_pages:
+            total_pages = min(total_pages, max_pages)
+
+        page_numbers = list(range(1, total_pages + 1))
+
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {
+                executor.submit(self.scrape_specialty_page, spec_id, spec_name, page): page
+                for page in page_numbers
+            }
+
+            for future in as_completed(futures):
+                try:
+                    page_records = future.result()
+                    records.extend(page_records)
+                except Exception as e:
+                    page = futures[future]
+                    self.logger.error(f"Error on page {page}: {e}")
 
         return records
 
