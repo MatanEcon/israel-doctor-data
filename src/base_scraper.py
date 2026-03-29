@@ -4,6 +4,8 @@ Base scraper class for Kupot Cholim doctor scraping
 
 import time
 import random
+import subprocess
+import tempfile
 from abc import ABC, abstractmethod
 from typing import List, Optional, Dict, Any
 from pathlib import Path
@@ -41,6 +43,27 @@ class BaseScraper(ABC):
         """Add random delay between requests."""
         delay = random.uniform(*self.delay_range)
         time.sleep(delay)
+    
+    def _curl_request(self, url: str, headers: Optional[Dict[str, str]] = None) -> Optional[str]:
+        """Make HTTP request using curl (bypasses SSL verification issues)."""
+        cmd = ["curl", "-sL", "-k", "--compressed", url]
+        
+        if headers:
+            for key, value in headers.items():
+                cmd.extend(["-H", f"{key}: {value}"])
+        
+        try:
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                timeout=30
+            )
+            if result.returncode == 0:
+                return result.stdout.decode("utf-8", errors="replace")
+            return None
+        except Exception as e:
+            self.logger.warning(f"curl request failed: {url} - {e}")
+            return None
     
     @retry(
         stop=stop_after_attempt(3),
