@@ -57,9 +57,15 @@ class DoctorimScraper(BaseScraper):
         self.logger.info(f"Found {len(specialties)} specialties")
         return specialties
 
-    def scrape_specialty_page(self, spec_id: str, page: int = 1) -> List[DoctorRecord]:
+    def scrape_specialty_page(self, spec_id: str, spec_name: str = "", page: int = 1) -> List[DoctorRecord]:
         """Scrape a single page of doctors for a specialty."""
-        url = f"{self.SEARCH_URL}/*/*/all/?spec_id={spec_id}&page={page}"
+        import urllib.parse
+        if spec_name:
+            encoded_name = urllib.parse.quote(spec_name, safe='+')
+            encoded_name = encoded_name.replace('%20', '+')
+        else:
+            encoded_name = "*"
+        url = f"{self.SEARCH_URL}/{encoded_name}/all/all/?spec_id={spec_id}&page={page}"
 
         html = self._curl_request(url)
         if not html:
@@ -161,7 +167,7 @@ class DoctorimScraper(BaseScraper):
 
         for page in range(1, total_pages + 1):
             try:
-                page_records = self.scrape_specialty_page(spec_id, page)
+                page_records = self.scrape_specialty_page(spec_id, spec_name, page)
                 records.extend(page_records)
 
                 if page % 10 == 0:
