@@ -1,0 +1,432 @@
+name,teudat_zehut,specialty,year,gender,clinic_address,phone,license_number,license_date,specialty_registration_date,clalit,maccabi,meuhedet,leumit,source_url,source_name,scrape_date,norm_name,kupa_affiliations
+"ד""ר איל ברבלק",,אורתופדיית עמוד שדרה,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-behrbalk-eyal,MedReviews,2026-03-29T18:53:42.310090,איל ברבלק,"maccabi, meuhedet, leumit"
+"ד""ר אמיר אורון",,כירורגיה של היד,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-oron-amir,MedReviews,2026-03-29T18:53:42.310119,אמיר אורון,"clalit, leumit"
+"ד""ר ירון סלע",,"כירורגיה אורתופדית, כירורגית כף יד",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-sela-yaron,MedReviews,2026-03-29T18:53:42.310177,ירון סלע,"maccabi, leumit"
+"ד""ר אורי חדש",,כירורגיה אורתופדית,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-hadash-ori,MedReviews,2026-03-29T18:53:42.310198,אורי חדש,"maccabi, meuhedet, leumit"
+פרופ' נדב משען,,גינקולוגיה ומיילדות,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-michaan-nadav,MedReviews,2026-03-29T18:53:42.310228,נדב משען,"maccabi, meuhedet, leumit"
+"ד""ר ירון ברקוביץ",,אורתופדיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-berkovich-yaron,MedReviews,2026-03-29T18:53:42.310238,ירון ברקוביץ,"clalit, maccabi, meuhedet, leumit"
+"ד""ר גיא מעוז",,כירורגיה אורטופדית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-maoz-guy,MedReviews,2026-03-29T18:53:42.310287,גיא מעוז,"maccabi, meuhedet"
+פרופ' אילן ברוכים,,"יילוד וגינקולוגיה, רפואת נשים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-bruchim-ilan,MedReviews,2026-03-29T18:53:42.310339,אילן ברוכים,"clalit, maccabi"
+"ד""ר עמרי לובובסקי",,"החלפת מפרקים, אורתופדיה",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-lubovsky-omri,MedReviews,2026-03-29T18:53:42.310405,עמרי לובובסקי,"clalit, maccabi, meuhedet"
+"ד""ר אסתר רובינראוט",,אורטופדיה,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-rubinraut-esther,MedReviews,2026-03-29T18:53:42.310508,אסתר רובינראוט,"maccabi, leumit"
+"ד""ר ולדימיר יוטקין",,כירורגיה אורולוגית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-yutkin-vladimir,MedReviews,2026-03-29T18:53:42.310530,ולדימיר יוטקין,"clalit, maccabi, meuhedet, leumit"
+פרופ' רונן דבי,,החלפות מפרקים - ברכיים וירכיים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-debi-ronen,MedReviews,2026-03-29T18:53:42.310621,רונן דבי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר יוליה פרנקין",,רפואה אסתטית,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-frenkin-yulia,MedReviews,2026-03-29T18:53:42.310730,יוליה פרנקין,leumit
+"ד""ר לב לפידוס",,אורטופדיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-lapidus-lev,MedReviews,2026-03-29T18:53:42.310849,לב לפידוס,"clalit, maccabi, meuhedet, leumit"
+"ד""ר משה רויבורט",,טיפולי פוריות והפריה חוץ גופית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-royburt-moshe,MedReviews,2026-03-29T18:53:42.310859,משה רויבורט,"clalit, maccabi"
+"ד""ר ירון ריסין",,כירורגיה פלסטית ואסתטית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-rissin-yaron,MedReviews,2026-03-29T18:53:42.310904,ירון ריסין,maccabi
+"ד""ר יורם וולף",,כירורגיה פלסטית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-wolf-yoram,MedReviews,2026-03-29T18:53:44.340731,יורם וולף,maccabi
+"ד""ר אריאל פורמן",,אורתופדיה החלפת מפרקים,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-fuhrmann-ariel,MedReviews,2026-03-29T18:53:44.340783,אריאל פורמן,"maccabi, leumit"
+פרופ' ליאור הלר,,כירורגיה פלסטית ואסתטית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-heller-lior,MedReviews,2026-03-29T18:53:44.340864,ליאור הלר,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ניר זיידר",,רפואת עיניים,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-seider-nir,MedReviews,2026-03-29T18:53:44.340944,ניר זיידר,leumit
+פרופ' אהוד אטון,,כירורגיה אורתופדית,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-atoun-ehud,MedReviews,2026-03-29T18:53:44.340981,אהוד אטון,"maccabi, meuhedet, leumit"
+פרופ' אורי סגל,,רפואת עיניים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-segal-ori,MedReviews,2026-03-29T18:53:44.341271,אורי סגל,clalit
+פרופ' יונה קוסאשוילי,,כירורגיה אורתופדית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-kosashvili-yona,MedReviews,2026-03-29T18:53:44.341387,יונה קוסאשוילי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אמיר אמיתי",,כירורגיה אורתופדית,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-amitai-amir,MedReviews,2026-03-29T18:53:44.341618,אמיר אמיתי,"clalit, meuhedet, leumit"
+"ד""ר יניב יונאי",,"פציעות ספורט, כירורגיה אורטופדית",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-yonai-yaniv,MedReviews,2026-03-29T18:53:44.341706,יניב יונאי,leumit
+פרופ' ערן תמיר,,כירורגיה אורתופדית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-tamir-eran,MedReviews,2026-03-29T18:53:44.341975,ערן תמיר,maccabi
+פרופ' יואב ברנע,,כירורגיה פלסטית ורפואה אסתטית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/prof-barnea-yoav,MedReviews,2026-03-29T18:53:44.342101,יואב ברנע,maccabi
+"ד""ר אנדרו פינק",,"טיפולים מתקדמים לעיניים יבשות, ניתוחי לייזר להסרת משקפיים",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-fink-andrew,MedReviews,2026-03-29T18:53:44.342438,אנדרו פינק,"maccabi, meuhedet, leumit"
+"ד""ר אביקם הראל",,רפואת עור ומין,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-harel-avikam,MedReviews,2026-03-29T18:53:44.342529,אביקם הראל,"clalit, meuhedet, leumit"
+פרופ' סער מנחה,,קרדיולוגיה,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-minha-saar,MedReviews,2026-03-29T18:53:46.915574,סער מנחה,"meuhedet, leumit"
+פרופ' עמוס נאמן,,אורולוגית ילדים ומבוגרים,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-neheman-amos,MedReviews,2026-03-29T18:53:46.915682,עמוס נאמן,"clalit, maccabi, meuhedet"
+פרופ' אבשלום שלום,,כירורגיה פלסטית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-shalom-avshalom,MedReviews,2026-03-29T18:53:46.915946,אבשלום שלום,"clalit, maccabi, meuhedet, leumit"
+"ד""ר דין קרן",,גסטרואנטרולוגיה (מחלות דרכי עיכול),,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-keren-dean,MedReviews,2026-03-29T18:53:46.915980,דין קרן,maccabi
+"ד""ר גבי הרן",,גינקולוגיה ומיילדות,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-haran-gabi,MedReviews,2026-03-29T18:53:46.916065,גבי הרן,maccabi
+"ד""ר ערן אביבי",,כירורגיה אורתופדית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-avivi-eran,MedReviews,2026-03-29T18:53:46.916105,ערן אביבי,"maccabi, meuhedet"
+"ד""ר איל יעקבי",,"אורתופדיה, כירורגיה אורתופדית",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-yaacobi-eyal,MedReviews,2026-03-29T18:53:46.916193,איל יעקבי,"maccabi, meuhedet"
+"ד""ר אליאס מטאנס",,כירורגיה פלסטית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-matanis-elias,MedReviews,2026-03-29T18:53:46.916223,אליאס מטאנס,"maccabi, meuhedet"
+"ד""ר איגור גרש",,"כירורגיה אורתופדית, מנתח כתף וברך",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-gersh-igor,MedReviews,2026-03-29T18:53:46.916385,איגור גרש,"clalit, maccabi, meuhedet"
+"ד""ר נטע רז",,"אורתופדיה עמוד שדרה, כירורגיה אורתופדית",,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-raz-neta,MedReviews,2026-03-29T18:53:46.916413,נטע רז,"clalit, maccabi, leumit"
+"ד""ר רועי מורג",,"אורולוגית ילדים, אורולוגית מבוגרים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-morag-roy,MedReviews,2026-03-29T18:53:46.916432,רועי מורג,"clalit, maccabi"
+"ד""ר חגי אביזמר",,"רפואת עיניים,  ניתוחי קטרקט וקרנית",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-avizemer-haggay,MedReviews,2026-03-29T18:53:46.916551,חגי אביזמר,leumit
+"ד""ר אליאס חדאד",,"כירורגיה אורטופדית, אורתופדיה עמוד שדרה",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-haddad-elias,MedReviews,2026-03-29T18:53:46.916696,אליאס חדאד,"clalit, maccabi"
+"ד""ר אורן צביאלי",,"כירורגיה אורטופדית, כתף ומרפק",,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-tsvieli-oren,MedReviews,2026-03-29T18:53:46.916733,אורן צביאלי,"clalit, meuhedet"
+"ד""ר ליאור לבר",,"רפואת ספורט, כירורגיה אורטופדית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-laver-lior,MedReviews,2026-03-29T18:53:46.916788,ליאור לבר,"maccabi, leumit"
+"ד""ר יואב אלפרט",,"גינקולוגיה ומיילדות, אולטרסאונד במיילדות",,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-alpert-yoav,MedReviews,2026-03-29T18:53:46.916878,יואב אלפרט,"clalit, meuhedet"
+פרופ' אוריאל שפירר,,"רפואת עיניים, מחלות עיניים בילדים, ניתוחי פזילה בילדים ומבוגרים, דרכי דמעות, עין עצלה",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-spierer-oriel,MedReviews,2026-03-29T18:53:48.350332,אוריאל שפירר,"maccabi, leumit"
+"ד""ר רומן בס",,אורולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-bass-roman,MedReviews,2026-03-29T18:53:48.350438,רומן בס,maccabi
+"ד""ר איגור קזנסקי",,"החלפת מפרקי ירך וברך, כירורגיה אורטופדית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-kazansky-igor,MedReviews,2026-03-29T18:53:48.350539,איגור קזנסקי,"maccabi, leumit"
+"ד""ר סוזנה מוסטפא מיח'איל",,"אורוגינקולוגיה, כירורגיה משקמת של רצפת האגן, כירורגיה גניקולוגית, רפואת נשים",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-mustafa-mikhail-susana,MedReviews,2026-03-29T18:53:48.350681,סוזנה מוסטפא מיח'איל,clalit
+פרופ' ליאור שגב,,"כירורגיה כללית, כירורגיה קולורקטלית ופרוקטולוגית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-segev-lior,MedReviews,2026-03-29T18:53:48.350992,ליאור שגב,"maccabi, leumit"
+"ד""ר עינת כרמון",,כירורגיית שד אונקולוגית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-carmon-einat,MedReviews,2026-03-29T18:53:48.351030,עינת כרמון,"maccabi, meuhedet"
+פרופ' דוד גויטיין,,"כירורגיה כללית, כירורגיה לפרוסקופית, כירורגיה בריאטרית",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-goitein-david,MedReviews,2026-03-29T18:53:48.351094,דוד גויטיין,"clalit, maccabi, meuhedet, leumit"
+"ד""ר יורי מנוסקין",,"כירורגיה כללית, כירורגיה לפרוסקופית, בקעים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-manuskin-yuri,MedReviews,2026-03-29T18:53:48.351139,יורי מנוסקין,"clalit, maccabi"
+"ד""ר סומיט צ'טרג'י",,"רפואה פנימית , מחלות ריאה, רפואת ריאות פולשנית, מחלות COPD, פלאורה, אסטמה פיברוזיס ריאתי, סרקואידוזיס, אבחון סרטן מוקדם",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-chatterji-sumit,MedReviews,2026-03-29T18:53:48.351176,סומיט צ'טרג'י,leumit
+פרופ׳ סאמר ח'טיב,,"מומחה ומנתח למחלות הרשתית והזגוגית, מנתח קטרקט בכיר",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-khateb-samer,MedReviews,2026-03-29T18:53:48.353904,סאמר ח'טיב,"clalit, maccabi, meuhedet, leumit"
+"ד""ר עדי סעדיה",,"רפואת עור, כירורגיה דרמטולוגית, ניתוחי MOHs, רפואה אסתטית",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-saadia-adi,MedReviews,2026-03-29T18:53:48.354302,עדי סעדיה,"clalit, maccabi"
+פרופ' מיקלוש באלה,,"כירורגיה כללית, טראומה מורכבת, כירורגיה דחופה, טיפול נמרץ כירורגי, כירורגיה לפרוסקופית",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-bala-miklosh,MedReviews,2026-03-29T18:53:48.354463,מיקלוש באלה,"clalit, maccabi, meuhedet, leumit"
+"ד""ר וסים סאיג",,"אף אוזן גרון , כירורגית ראש צוואר",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-sayegh-waseem,MedReviews,2026-03-29T18:53:48.354508,וסים סאיג,"clalit, maccabi, meuhedet"
+"ד""ר ירון גיל",,"כירורגיה גינקולוגית זעיר פולשנית מתקדמת, רפואת נשים",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-gil-yaron,MedReviews,2026-03-29T18:53:48.354648,ירון גיל,maccabi
+"ד""ר אסף לבנון",,כירורגית כלי דם,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-levanon-asaf,MedReviews,2026-03-29T18:53:48.355217,אסף לבנון,clalit
+"ד""ר אירינה פיינברג",,"צוואר הרחם, כירורגיה גינקולוגית, רפואת נשים",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-fainberg-irina,MedReviews,2026-03-29T18:53:50.198718,אירינה פיינברג,"maccabi, leumit"
+"ד""ר אלכסנדר חייפץ",,"אורולוגיה כללית, אורולוגיה אונקולוגית, סרטן הערמונית, מחלות ערמונית ",,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-kheifets-alexander,MedReviews,2026-03-29T18:53:50.198791,אלכסנדר חייפץ,"clalit, maccabi, leumit"
+"ד""ר עידו מזרחי",,כירורגיה קולורקטלית ופרוקטולוגית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-mizrahi-ido,MedReviews,2026-03-29T18:53:50.199006,עידו מזרחי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ראמי גועבה",,קרדיולוגיה פולשנית,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-jubeh-rami,MedReviews,2026-03-29T18:53:50.199536,ראמי גועבה,"clalit, meuhedet, leumit"
+"ד""ר מנחם זינגר",,אורתופדית ילדים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-singer-menahem,MedReviews,2026-03-29T18:53:50.199739,מנחם זינגר,"clalit, maccabi, meuhedet, leumit"
+"ד""ר עופר גליק",,"ניתוחי אף וסינוסים, פלסטיקה משחזרת של הפנים, רפואה אסתטית",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-gluck-ofer,MedReviews,2026-03-29T18:53:50.199859,עופר גליק,maccabi
+"ד""ר אריאל זילברליכט",,"אורוגניקולוגיה, רפואת נשים",,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-zilberlicht-ariel,MedReviews,2026-03-29T18:53:50.199910,אריאל זילברליכט,"clalit, maccabi, leumit"
+"ד""ר שניר הלר",,"החלפת מפרקים, כירורגיה אורתופדית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-heller-snir,MedReviews,2026-03-29T18:53:50.199973,שניר הלר,clalit
+פרופ' אליהו לויטס,,"פוריות, מיילדות, גניקולוגיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-levitas-eliahu,MedReviews,2026-03-29T18:53:50.200310,אליהו לויטס,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ניר גבריאל",,"כירורג כלי דם, כירורגיה כללית",,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-gabriel-nir,MedReviews,2026-03-29T18:53:50.200341,ניר גבריאל,"clalit, leumit"
+"ד""ר גיל להב",,אוטולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-lahav-gil,MedReviews,2026-03-29T18:53:50.200454,גיל להב,leumit
+"ד""ר שמואל רויזמן",,כירורגיה אורולוגית שחזורית ותפקודית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-roizman-shmuel,MedReviews,2026-03-29T18:53:50.200494,שמואל רויזמן,"clalit, maccabi, meuhedet"
+פרופ' רם אלעזרי,,כירורגיה בריאטרית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-elazary-ram,MedReviews,2026-03-29T18:53:50.200576,רם אלעזרי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר מאיר רצ'קימן",,כירורגיה פלסטית ואסתטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-retchkiman-meir,MedReviews,2026-03-29T18:53:50.200655,מאיר רצ'קימן,clalit
+"ד""ר צבי גור",,"פלסטיקה של העין, עפעפיים, דרכי דמעות וארובת העין",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-gur-zvi,MedReviews,2026-03-29T18:53:50.200717,צבי גור,"clalit, maccabi, meuhedet, leumit"
+"ד""ר פרנק אטלן",,"כירורגיה של היד, מיקרוכירורגיה של כף יד, ארטרוסקופיה של כף יד",,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-franck-atlan,MedReviews,2026-03-29T18:53:50.200787,פרנק אטלן,"clalit, meuhedet"
+"ד""ר ליאור קורן",,"כירורגיית כף יד, אורתופדיה, חוות דעת רפואית משפטית",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-koren-lior,MedReviews,2026-03-29T18:53:50.200827,ליאור קורן,leumit
+"ד""ר שגית שושן",,אף אוזן גרון ילדים ומבוגרים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-shushan-sagit,MedReviews,2026-03-29T18:53:50.200856,שגית שושן,clalit
+"ד""ר אמיר חדייר",,"עיניים, קטרקט, רשתית, טיפולי לייזר",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-hadayer-amir,MedReviews,2026-03-29T18:53:50.200899,אמיר חדייר,"maccabi, meuhedet, leumit"
+"ד""ר יורם מור",,"כאב, שיקום",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-mor-yoram,MedReviews,2026-03-29T18:53:50.200969,יורם מור,leumit
+"ד""ר שירה חתומי",,אורולוגיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-chatumi-shira,MedReviews,2026-03-29T18:53:50.200984,שירה חתומי,clalit
+"ד""ר משה כרמון",,כירורגית שד,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-carmon-moshe,MedReviews,2026-03-29T18:53:50.201028,משה כרמון,"clalit, maccabi"
+"ד""ר אייל הנדלר",,אורתופדיה עמוד שדרה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-hendler-eyal,MedReviews,2026-03-29T18:53:50.201040,אייל הנדלר,maccabi
+"ד""ר גילי טסלר",,קטרקט,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-tessler-gili,MedReviews,2026-03-29T18:53:50.201122,גילי טסלר,"maccabi, leumit"
+"ד""ר בני צוקרמן",,ניתוחי חזה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-zuckermann-benny,MedReviews,2026-03-29T18:53:50.201216,בני צוקרמן,maccabi
+"ד""ר ביאדר בלאל",,"כירורגיה פלסטית, רפואה אסתטית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-bilal-biader,MedReviews,2026-03-29T18:53:50.201278,ביאדר בלאל,clalit
+פרופ' יגאל רוטנשטרייך,,"קטרקט, רפואת עיניים, מחלות רשתית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/prof-rotenstreich-ygal,MedReviews,2026-03-29T18:53:53.189646,יגאל רוטנשטרייך,clalit
+"ד""ר גיא ביבי",,כירורגיה גינקולוגית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-bibi-guy,MedReviews,2026-03-29T18:53:53.189762,גיא ביבי,clalit
+"ד""ר אסף אלבגלי",,אורתופדיית כף רגל וקרסול,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-albagli-assaf,MedReviews,2026-03-29T18:53:53.189794,אסף אלבגלי,"maccabi, meuhedet"
+"ד""ר שרון זנדבנק",,"כירורגיה פלסטית, רפואה אסתטית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-sandbank-sharon,MedReviews,2026-03-29T18:53:53.189917,שרון זנדבנק,"maccabi, leumit"
+"ד""ר פיליפ רוזינסקי",,"ניתוחי כתף וירך, אורתופדית ספורט, החלפות מפרקים",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-rosinsky-philip,MedReviews,2026-03-29T18:53:53.191768,פיליפ רוזינסקי,"maccabi, meuhedet"
+"ד""ר נדב שאשה",,"החלפות מפרקים, כירורגיה אורתופדית",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-shasha-nadav,MedReviews,2026-03-29T18:53:53.191850,נדב שאשה,"clalit, maccabi, meuhedet, leumit"
+"ד""ר רוני רוזן",,גסטרואנטרולוגיה ומחלות כבד,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-rozen-roni,MedReviews,2026-03-29T18:53:53.191917,רוני רוזן,"maccabi, meuhedet"
+"ד""ר אורי ברלינר",,"ניתוחי עיניים, ניתוח קטרקט, לייזר SLT, יאג לייזר, פטריגיום, הסרת ירוד, מומחה גלאוקומה, מומחה קטרקט",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-berliner-ori,MedReviews,2026-03-29T18:53:53.192221,אורי ברלינר,"maccabi, meuhedet, leumit"
+"ד""ר אלכסיי רוביצקי",,"מומחה לאורתופדיה קרסול וכף רגל, טראומה אורטופדית",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-rovitsky-alexey,MedReviews,2026-03-29T18:53:53.193029,אלכסיי רוביצקי,"maccabi, meuhedet"
+"ד""ר יניב קרן",,טראומה אורתופדית,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-keren-yaniv,MedReviews,2026-03-29T18:53:53.193048,יניב קרן,"meuhedet, leumit"
+פרופ' דוד סוריאנו,,"כירורגיה גניקולוגית, אנדומטריוזיס, ניתוחים לפרוסקופים, ניתוחים היסטרוסקופיים ורפואת נשים",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/prof-soriano-david,MedReviews,2026-03-29T18:53:53.193068,דוד סוריאנו,"maccabi, meuhedet, leumit"
+"ד""ר לירן טיאוסנו",,"קטרקט, מחלות רשתית וזגוגית",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-tiosano-liran,MedReviews,2026-03-29T18:53:53.193095,לירן טיאוסנו,"clalit, meuhedet, leumit"
+"ד""ר מאזן פלאח",,"רפואת ספורט אורתופדית, ארטרוסקופיה, החלפות ברכיים",,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-falah-mazen,MedReviews,2026-03-29T18:53:53.193130,מאזן פלאח,"clalit, maccabi, leumit"
+"ד""ר נביל גרייב",,"החלפת מפרק ירך, החלפת ברך , ניתוחים רובוטיים.",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-ghrayeb-nabil,MedReviews,2026-03-29T18:53:53.193160,נביל גרייב,"clalit, maccabi, meuhedet"
+"ד""ר טוני כראם",,כירורגית כלי דם,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-karram-tony,MedReviews,2026-03-29T18:53:53.193195,טוני כראם,"clalit, meuhedet, leumit"
+"ד""ר ניר ביטרמן",,"כירורגיה פלסטית, רפואה אסתטית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-bitterman-nir,MedReviews,2026-03-29T18:53:53.193205,ניר ביטרמן,clalit
+"ד""ר תמר שלו",,"גסטרואנטרולוגיה, רפואה פנימית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-shalev-tamar,MedReviews,2026-03-29T18:53:53.193254,תמר שלו,"maccabi, leumit"
+"ד""ר עפיף יעקוב",,גסטרואנטרולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-afif-yacoub,MedReviews,2026-03-29T18:53:53.193274,עפיף יעקוב,maccabi
+"ד""ר גיא מרסיאנו",,"רפואת נשים, היסטרוסקופיה אבחנתית וניתוחית",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-marciano-guy,MedReviews,2026-03-29T18:53:53.193327,גיא מרסיאנו,"clalit, maccabi"
+"ד""ר אהוד רז",,"רפואת נשים, הפסקת הריון",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-raz-ehud,MedReviews,2026-03-29T18:53:56.215228,אהוד רז,meuhedet
+"ד""ר עודד רוק",,"עיניים ילדים, פזילה",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-rock-oded,MedReviews,2026-03-29T18:53:56.215455,עודד רוק,leumit
+"ד""ר אורי שייר",,"ניתוחי קטרקט מורכבים, בשילוב עדשות מתקדמות (פרימיום), רפואת עיניים",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-scheyer-ori,MedReviews,2026-03-29T18:53:56.215497,אורי שייר,"maccabi, meuhedet"
+"ד""ר ליאור דרוקר",,"רפואת נשים/גינקולוגיה, אולטרה סאונד",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-drukker-lior,MedReviews,2026-03-29T18:53:56.215569,ליאור דרוקר,clalit
+"ד""ר אורי איל",,כירורגית כלי דם,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-eyal-ori,MedReviews,2026-03-29T18:53:56.215644,אורי איל,"clalit, maccabi, meuhedet, leumit"
+"ד""ר שלמה מרחבי",,"אף אוזן גרון, בלוטת התריס",,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-merchavy-shlomo,MedReviews,2026-03-29T18:53:56.216423,שלמה מרחבי,"clalit, leumit"
+"ד""ר אורי פלג",,אף אוזן גרון,,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-peleg-uri,MedReviews,2026-03-29T18:53:56.216671,אורי פלג,"clalit, maccabi, leumit"
+פרופ' דוד ורסנו,,רפואת עיניים,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-varssano-david,MedReviews,2026-03-29T18:53:56.216828,דוד ורסנו,"clalit, leumit"
+"ד""ר משה חייצ'יק",,אף אוזן גרון ילדים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-chaitchik-moshe,MedReviews,2026-03-29T18:53:56.216854,משה חייצ'יק,maccabi
+"ד""ר עידן כרמלי",,"כירורגיה כללית ולפרוסקופית, בריאטריה (קיצור קיבה)",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-carmeli-idan,MedReviews,2026-03-29T18:53:56.216907,עידן כרמלי,maccabi
+"ד""ר ניר כהן",,"אורתופדיה, החלפות מפרקים, אורתופדיה ברכיים ומפרקי ירכיים",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-cohen-nir,MedReviews,2026-03-29T18:53:56.216947,ניר כהן,clalit
+"ד""ר דוד אולנובסקי",,אף אוזן גרון ילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-ulanovski-david,MedReviews,2026-03-29T18:53:56.217086,דוד אולנובסקי,clalit
+"ד""ר מרים ארנברג",,"עיניים ילדים, פזילה, התאמת משקפיים, עין עצלה",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-ehrenberg-miriam,MedReviews,2026-03-29T18:53:56.217200,מרים ארנברג,leumit
+"ד""ר דוד איסקוב",,"פריון, מיילדות וגינקולוגיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-issakov-david,MedReviews,2026-03-29T18:53:56.217620,דוד איסקוב,"clalit, maccabi, meuhedet, leumit"
+פרופ' ערן הורוביץ,,"רפואת נשים, פריון האישה",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-horowitz-eran,MedReviews,2026-03-29T18:53:56.217641,ערן הורוביץ,clalit
+"ד""ר אילן וסרמן",,"כירורגיה קולורקטלית, כירורגיה כללית, כירורגית שד",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-vasserman-ilan,MedReviews,2026-03-29T18:53:56.217666,אילן וסרמן,maccabi
+"ד""ר אור יריב",,"רפואת נשים, אולטרה סאונד גינקולוגי",,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-yariv-or,MedReviews,2026-03-29T18:53:56.217933,אור יריב,"clalit, leumit"
+פרופ׳ אורי אלבז,,"רפואת עיניים, קטרקט, קרנית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-elbaz-uri,MedReviews,2026-03-29T18:53:56.218004,אורי אלבז,clalit
+"ד""ר אלדד אדלר",,"רפואת עיניים, קטרקט, קרנית",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-adler-eldad,MedReviews,2026-03-29T18:53:58.438387,אלדד אדלר,leumit
+פרופ' איתי פרץ,,"אורתופדיה, החלפות מפרקים, רפואת ספורט אורתופדית",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-perets-itay,MedReviews,2026-03-29T18:53:58.438430,איתי פרץ,"clalit, maccabi, meuhedet, leumit"
+"ד""ר שי שמש",,"אורתופדיה החלפות מפרקים, אורתופדיה אונקולוגית",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-shemesh-shai,MedReviews,2026-03-29T18:53:58.438694,שי שמש,"clalit, maccabi, meuhedet"
+"ד""ר חגי קמר",,כירורגיה ילדים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-kammar-haguy,MedReviews,2026-03-29T18:53:58.438837,חגי קמר,maccabi
+פרופ' אסקיאל פלמנוביץ',,אורתופדיה קרסול וכף רגל,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-palmanovich-ezequiel,MedReviews,2026-03-29T18:53:58.438942,אסקיאל פלמנוביץ',"clalit, leumit"
+"ד""ר אולג לוי",,אורולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-levi-oleg,MedReviews,2026-03-29T18:53:58.438965,אולג לוי,maccabi
+"ד""ר גיל גנוט",,אורתופדיה קרסול וכף רגל,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-genuth-gil,MedReviews,2026-03-29T18:53:58.439003,גיל גנוט,"clalit, maccabi"
+"ד""ר ניסים חיימוב",,אורתופדיה קרסול וכף רגל,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-khaimov-nissim,MedReviews,2026-03-29T18:53:58.439068,ניסים חיימוב,"clalit, meuhedet"
+פרופ' אמיר הרמן,,אורתופדיה החלפות מפרקים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-herman-amir,MedReviews,2026-03-29T18:53:58.439161,אמיר הרמן,"clalit, maccabi, meuhedet, leumit"
+"ד""ר יאיר גורצק",,אורתופדיה אונקולוגית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-gortzak-yair,MedReviews,2026-03-29T18:53:58.439187,יאיר גורצק,"clalit, maccabi"
+"ד""ר רפי קליין",,"כירורגית שד, מלנומה, כירורגיה כללית, רפואה אסתטית",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-klein-rafi,MedReviews,2026-03-29T18:53:58.439456,רפי קליין,"maccabi, meuhedet, leumit"
+"ד""ר אדוארדו שכטר",,"רפואת נשים, צוואר הרחם",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-schejter-eduardo,MedReviews,2026-03-29T18:53:58.439488,אדוארדו שכטר,maccabi
+"ד""ר אנה אידלסון",,מיילדות וגינקולוגיה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-idelson-ana,MedReviews,2026-03-29T18:53:58.439622,אנה אידלסון,"clalit, maccabi"
+"ד""ר יריב שטבהולץ",,אורולוגיה,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-stabholz-yariv,MedReviews,2026-03-29T18:53:58.439767,יריב שטבהולץ,"meuhedet, leumit"
+"ד""ר עאדל ברבארה",,"רפואת עיניים, קרנית, קטרקט, הסרת משקפיים בלייזר, מיופיה קונטרול בילדים",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-barbara-adel,MedReviews,2026-03-29T18:53:58.439831,עאדל ברבארה,"clalit, meuhedet, leumit"
+"ד""ר איליה פרוסו",,אורתופדיה החלפות מפרקים,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-prosso-ilia,MedReviews,2026-03-29T18:53:58.439869,איליה פרוסו,"clalit, maccabi, meuhedet"
+"ד""ר רויטל לינדר",,"גינקולוגיה אונקולוגית, צוואר הרחם, רפואת נשים",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-linder-revital,MedReviews,2026-03-29T18:53:58.439928,רויטל לינדר,clalit
+פרופ' ניר וסרברג,,"כירורגיה קולורקטלית, כירורגיה כללית",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-wasserberg-nir,MedReviews,2026-03-29T18:53:58.440028,ניר וסרברג,"clalit, maccabi, meuhedet, leumit"
+"ד""ר טל קובל",,"פלסטיקה של העין והארובה, רפואת עיניים",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-koval-tal,MedReviews,2026-03-29T18:53:58.440168,טל קובל,maccabi
+"ד""ר עירית הוכברג",,"אנדוקרינולוגיה, אוסטאופורוזיס, סוכרת",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-hochberg-irit,MedReviews,2026-03-29T18:53:58.440197,עירית הוכברג,leumit
+"ד""ר רוברטו שפיגלמן",,"נוירוכירורגיה, רדיוכירורגיה סטריאוטקטית",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-spiegelmann-roberto,MedReviews,2026-03-29T18:53:58.440235,רוברטו שפיגלמן,"clalit, meuhedet, leumit"
+"ד""ר אפרים ברקו",,"רפואת עיניים, ניתוחי קטרקט ורשתית, ניתוחי קטרקט מורכבים, מחלות רשתית",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-berco-efraim,MedReviews,2026-03-29T18:53:59.819073,אפרים ברקו,maccabi
+"ד""ר נועם אולשינקה",,אורתופדיה אונקולוגית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-olshinka-noam,MedReviews,2026-03-29T18:53:59.819147,נועם אולשינקה,"clalit, maccabi, meuhedet, leumit"
+פרופ' יורם אגמון,,"קרדיולוגיה, אקו לב, מחלות מסתמי הלב",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-agmon-yoram,MedReviews,2026-03-29T18:53:59.819177,יורם אגמון,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ראפי חדאד",,"נוירולוגיה, הפרעות תנועה, נוירולוגיה קוגניטיבית",,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-hadad-rafi,MedReviews,2026-03-29T18:53:59.819195,ראפי חדאד,"maccabi, leumit"
+פרופ' ערן שדות,,"כירורגיה כללית, ניתוחי כבד, לבלב, ודרכי מרה",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/prof-sadot-eran,MedReviews,2026-03-29T18:53:59.819249,ערן שדות,"maccabi, meuhedet, leumit"
+"ד""ר צבי מילוא",,"רפואת נשים, נערות ומתבגרות, מעקב הריונות מיוחדים, הריון בסיכון גבוה",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-millo-zvi,MedReviews,2026-03-29T18:53:59.819329,צבי מילוא,clalit
+"ד""ר וסילי צ'רמיסין",,"אורתופדית כתף, אורתופדיה של גפה עליונה",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-tcheremisin-vasily,MedReviews,2026-03-29T18:53:59.819360,וסילי צ'רמיסין,"clalit, maccabi, meuhedet"
+"ד""ר יונה יניב",,אורטופדיה של כף היד,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-yaniv-yona,MedReviews,2026-03-29T18:53:59.819447,יונה יניב,leumit
+"ד""ר אריה גורדין",,אף אוזן גרון ילדים,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-gordin-arie,MedReviews,2026-03-29T18:53:59.819500,אריה גורדין,"maccabi, meuhedet"
+"ד""ר אפי כזום",,"אורתופדיה, מנתח כתף",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-kazum-efi,MedReviews,2026-03-29T18:53:59.819576,אפי כזום,"clalit, maccabi"
+"ד""ר ארנון קורן",,"כירורגית כלי דם וורידים, ניתוחי לייזר תוך ורידי",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-koren-arnon,MedReviews,2026-03-29T18:53:59.819738,ארנון קורן,clalit
+פרופ' עופר פאינרו,,"פריון האישה, הפרייה חוץ גופית (IVF)",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/prof-fainaru-ofer,MedReviews,2026-03-29T18:53:59.819887,עופר פאינרו,clalit
+"ד""ר יריב גולדשטיין",,אורתופדית כתף,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-goldstein-yariv,MedReviews,2026-03-29T18:53:59.819925,יריב גולדשטיין,leumit
+"ד""ר ענבל אבישר",,"פלסטיקה של העין והארובה, רפואת עיניים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-avisar-inbal,MedReviews,2026-03-29T18:54:03.015591,ענבל אבישר,"clalit, maccabi"
+"ד""ר אשרף תמימי",,אורולוגיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-tamimi-ashraf,MedReviews,2026-03-29T18:54:03.015659,אשרף תמימי,"clalit, maccabi, meuhedet, leumit"
+פרופ' דב פלדברג,,"פריון האישה, פריון הגבר, גינקולוגיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-feldberg-dov,MedReviews,2026-03-29T18:54:03.015699,דב פלדברג,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ינון חזן",,"רפואת נשים, סקירת מערכות, דיקור מי שפיר,  אולטרסאונד, שקיפות עורפית",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-hazan-yinon,MedReviews,2026-03-29T18:54:03.015721,ינון חזן,clalit
+"ד""ר אבנר הוסטובסקי",,"רשתית, קטרקט, רפואת עיניים",,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-hostovsky-avner,MedReviews,2026-03-29T18:54:03.015836,אבנר הוסטובסקי,"clalit, maccabi, leumit"
+"ד""ר יאיר שחר",,כירורגיה פלסטית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-shachar-yair,MedReviews,2026-03-29T18:54:03.016124,יאיר שחר,"clalit, maccabi, meuhedet, leumit"
+"ד""ר הילה חרמון",,"כירורגית שד, בריאטריה קיצור קיבה, כירורגיה כללית ולפרוסקופית.",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-hermon-hila,MedReviews,2026-03-29T18:54:03.016157,הילה חרמון,"clalit, maccabi, meuhedet"
+פרופ' נועם שוחט,,"אורתופדיה ברכיים, אורתופדיה החלפות מפרקים",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/prof-shohat-noam,MedReviews,2026-03-29T18:54:03.016219,נועם שוחט,maccabi
+"ד""ר דב בכר",,"פריון האישה, פריון הגבר, גינקולוגיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-bachar-dov,MedReviews,2026-03-29T18:54:03.016392,דב בכר,"clalit, maccabi, meuhedet, leumit"
+פרופ' שרה שמעוני,,"קרדיולוגיה, מחלות מסתמיות, אקו לב, אקו לב במאמץ",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/prof-shimoni-sara,MedReviews,2026-03-29T18:54:03.016605,שרה שמעוני,"clalit, meuhedet, leumit"
+"ד""ר אודי ארגז",,"אולטרה סאונד גינקולוגי, מעקב הריונות מיוחדים, הריון בסיכון גבוה, גינקולוגיה",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-ergaz-udi,MedReviews,2026-03-29T18:54:03.016685,אודי ארגז,"clalit, maccabi"
+"ד""ר גיא שרים",,"גינקולוגיה ופוריות, הפריה חוץ גופית ומעקב הריון",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-guy-shrem,MedReviews,2026-03-29T18:54:03.016747,גיא שרים,meuhedet
+"ד""ר לאון גרדוב",,"אורתופדיה , קרסול וכף רגל, טיפול מחליף ניתוח, חוות דעת משפטית.",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-gradov-leon,MedReviews,2026-03-29T18:54:03.016921,לאון גרדוב,maccabi
+"ד""ר מיכאל ברוסילוב",,"סקירות ושקיפויות, מומחה ברפואת נשים, רפואת נשים ויולדות, יילוד וגינקולוגיה",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-brusilov-michael,MedReviews,2026-03-29T18:54:03.016954,מיכאל ברוסילוב,"clalit, maccabi"
+"ד""ר יובל לביא",,"מומחה אורוגינקולוגיה, רפואת רצפת האגן ואנדוסקופיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-lavy-yuval,MedReviews,2026-03-29T18:54:03.017018,יובל לביא,"clalit, maccabi, meuhedet, leumit"
+"ד""ר הראל יעקבי",,ניתוחים רובוטיים - מערכת עיכול עליונה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-jacoby-harel,MedReviews,2026-03-29T18:54:03.017184,הראל יעקבי,maccabi
+"ד""ר מורן פז",,רופא ומנתח בכיר ביחידה האנדוסקופית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-paz-moran,MedReviews,2026-03-29T18:54:03.017220,מורן פז,"clalit, maccabi"
+"ד""ר אינה סלבוטסקי",,פסיכיאטריה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-slavoutsky-inna,MedReviews,2026-03-29T18:54:03.017412,אינה סלבוטסקי,maccabi
+"ד""ר תומר איזנברג",,כירורגיה פלסטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-ayzenberg-tomer,MedReviews,2026-03-29T18:54:03.017439,תומר איזנברג,clalit
+"ד""ר תומר כהן",,רפואת ספורט אורתופדית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-cohen-tomer,MedReviews,2026-03-29T18:54:05.114552,תומר כהן,"clalit, maccabi"
+פרופ' בוריס קירשטיין,,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/prof-kirshtein-boris,MedReviews,2026-03-29T18:54:05.114715,בוריס קירשטיין,"clalit, maccabi, meuhedet"
+"ד""ר ערן אורבוך",,אף אוזן גרון וכירורגיית ראש-צוואר,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-averbuch-eran,MedReviews,2026-03-29T18:54:05.114789,ערן אורבוך,leumit
+"ד""ר אסף יששכר",,מחלות כבד,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-issachar-assaf,MedReviews,2026-03-29T18:54:05.114846,אסף יששכר,clalit
+"ד""ר חזי פרסטר",,אורתופדיית עמוד השדרה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-ferster-hezi,MedReviews,2026-03-29T18:54:05.114911,חזי פרסטר,"clalit, maccabi"
+"ד""ר מרינה ארביטמן",,פסיכיאטריה של מבוגרים (מגיל 18),,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-arbitman-marina,MedReviews,2026-03-29T18:54:05.115073,מרינה ארביטמן,leumit
+"ד""ר אורנה לוינסון-תבור",,"רפואת נשים, סקירת מערכות, דיקור מי שפיר, אולטרסאונד מיילדותי וגינקולוגי, שקיפות עורפית",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-levinsohn-tavor-orna,MedReviews,2026-03-29T18:54:05.115115,אורנה לוינסון-תבור,meuhedet
+פרופ' ברוך ברנר,,אונקולוגיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-brenner-baruch,MedReviews,2026-03-29T18:54:05.115186,ברוך ברנר,"clalit, maccabi, meuhedet, leumit"
+"ד""ר עביר מסארוה",,אולטראסאונד עוברי וגינקולוגי,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-massarwa-abeer,MedReviews,2026-03-29T18:54:05.115320,עביר מסארוה,maccabi
+פרופ' גיל בולוטין,,ניתוחי לב,,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/prof-bolotin-gil,MedReviews,2026-03-29T18:54:05.115618,גיל בולוטין,"clalit, maccabi, leumit"
+"ד""ר יונתן קוגן",,קרדיולוגיה,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-kogan-yonatan,MedReviews,2026-03-29T18:54:05.115651,יונתן קוגן,"clalit, meuhedet"
+"ד""ר טארק טאהא",,אורולוגיה,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-taha-tarek,MedReviews,2026-03-29T18:54:05.115715,טארק טאהא,"maccabi, meuhedet"
+"ד""ר דן צין",,כירורגיה אורתופדית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-zin-dan,MedReviews,2026-03-29T18:54:05.116059,דן צין,maccabi
+"ד""ר יעל רדלר",,נוירואופתלמולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-redler-yael,MedReviews,2026-03-29T18:54:05.116159,יעל רדלר,maccabi
+פרופ' מחמוד סולימאן,,הפרעות קצב הלב,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/prof-suleiman-mahmood,MedReviews,2026-03-29T18:54:05.116291,מחמוד סולימאן,"clalit, meuhedet, leumit"
+"ד""ר מוחמד מסאלחה",,כירורגיה אורתופדית,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-masalha-mohamad,MedReviews,2026-03-29T18:54:05.116310,מוחמד מסאלחה,"meuhedet, leumit"
+"ד""ר יריב סלעית",,כירורגית כלי דם,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-salit-yariv,MedReviews,2026-03-29T18:54:05.116482,יריב סלעית,"maccabi, meuhedet"
+"ד""ר מהרן כבהה",,אנדרולוגיה (אונות ופריון הגבר),,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-kabha-maharan,MedReviews,2026-03-29T18:54:05.116562,מהרן כבהה,clalit
+"ד""ר אסעד דראושה",,כירורגיה אורתופדית,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-darawsha-asad,MedReviews,2026-03-29T18:54:05.116589,אסעד דראושה,"clalit, meuhedet"
+"ד""ר דניאל טרנר",,רפואת נשים,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-terner-daniel,MedReviews,2026-03-29T18:54:05.116630,דניאל טרנר,meuhedet
+"ד""ר חיים יהודה",,כירורגיה אורתופדית של היד והמרפק,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-yehuda-sagi-haim,MedReviews,2026-03-29T18:54:05.116731,חיים יהודה,clalit
+"ד""ר גד לוטן",,כירורגיה פדיאטרית/כירורגיה של הילד,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-lotan-gad,MedReviews,2026-03-29T18:54:05.116810,גד לוטן,"maccabi, meuhedet, leumit"
+"ד""ר נור חטיב",,"רפואת עיניים, אוקולופלסטיקה, דרכי דמעות, ארובת העין",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-khatib-nur,MedReviews,2026-03-29T18:54:05.116882,נור חטיב,"maccabi, meuhedet, leumit"
+"ד""ר אהוד גרינשטין",,"אורוגינקולוגיה, צניחת אברי האגן, כירורגיה גינקולוגית אנדוסקופית, היסטרוסקופיה",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-grinstein-ehud,MedReviews,2026-03-29T18:54:07.296665,אהוד גרינשטין,maccabi
+"ד""ר דניאלה נווה",,"גינקולוגיה, מיילדות, פריון ורפואת גיל המעבר",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-navve-daniella,MedReviews,2026-03-29T18:54:07.296826,דניאלה נווה,maccabi
+"ד""ר ארי רייס",,גינקולוגיה אונקולוגית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-reiss-ari,MedReviews,2026-03-29T18:54:07.296850,ארי רייס,maccabi
+"ד""ר שי קרן",,מומחה באוקולופלסטיקה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-keren-shay,MedReviews,2026-03-29T18:54:07.296903,שי קרן,"clalit, leumit"
+"ד""ר אסף בר",,רשתית וניתוחי קטרקט,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-bar-asaf,MedReviews,2026-03-29T18:54:07.296944,אסף בר,maccabi
+פרופ' אבנר בלקין,,מחלת הגלאוקומה וקטרקט,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-belkin-avner,MedReviews,2026-03-29T18:54:07.297018,אבנר בלקין,meuhedet
+"ד""ר אורי אלקן",,אף אוזן גרון וראש צוואר,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-alkan-uri,MedReviews,2026-03-29T18:54:07.297500,אורי אלקן,leumit
+"ד""ר ברק רינת",,אורתופדיית ילדים,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-barak-rinat,MedReviews,2026-03-29T18:54:07.297546,ברק רינת,"clalit, maccabi"
+פרופ' אלון קדם,,"רפואת נשים, שימור פיריון",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-kedem-alon,MedReviews,2026-03-29T18:54:07.297647,אלון קדם,meuhedet
+"ד""ר ויקטוריה ניימן",,אונקולוגיה,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-neiman-victoria,MedReviews,2026-03-29T18:54:07.298015,ויקטוריה ניימן,"maccabi, leumit"
+"ד""ר יובל אור",,,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-or-yuval,MedReviews,2026-03-29T18:54:07.298365,יובל אור,clalit
+"ד""ר גיא פייגין",,רפואת כאב,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-feigin-guy,MedReviews,2026-03-29T18:54:07.298462,גיא פייגין,"clalit, maccabi"
+"ד""ר אורן גולדשטיין",,כירורגיה פלסטית ואסתטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-goldstein-oren,MedReviews,2026-03-29T18:54:07.298490,אורן גולדשטיין,clalit
+"ד""ר שולמית שורץ",,"מחלות רשתית , ניתוחי רשתית , ניתוחי קטרקט",,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-schwartz-shulamit,MedReviews,2026-03-29T18:54:07.298525,שולמית שורץ,"clalit, maccabi, meuhedet"
+"ד""ר חגי לנדוב",,"רפואת עור, ניתוחי MOHS",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-landov-hagai,MedReviews,2026-03-29T18:54:07.298616,חגי לנדוב,"maccabi, meuhedet, leumit"
+"ד""ר דניאל אופיר",,רפואה אסתטית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-ofir-danielle,MedReviews,2026-03-29T18:54:09.129462,דניאל אופיר,"clalit, maccabi"
+"ד""ר רביע שחאדה",,אף אוזן גרון,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-shhada-rabia,MedReviews,2026-03-29T18:54:09.129494,רביע שחאדה,clalit
+"ד""ר דניאל יפית",,א.א.ג ילדים,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-yafit-daniel,MedReviews,2026-03-29T18:54:09.129746,דניאל יפית,"maccabi, meuhedet"
+"ד""ר משה זילבר",,מומחה באנדוקרינולוגיה ובסוכרת,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-zilber-moshe,MedReviews,2026-03-29T18:54:09.129865,משה זילבר,leumit
+"ד""ר אורנה אפשטיין",,נוירולוגיה ילדים,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-epstein-orna,MedReviews,2026-03-29T18:54:09.130036,אורנה אפשטיין,leumit
+"ד""ר יעקב שפירא",,כירורגיה אורתופדית,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-shapira-jacob,MedReviews,2026-03-29T18:54:09.130108,יעקב שפירא,"maccabi, meuhedet, leumit"
+"ד""ר אסעד חורי",,קרדיולוגיה ילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-khoury-asaad,MedReviews,2026-03-29T18:54:09.130166,אסעד חורי,clalit
+"ד""ר עלא מחאמיד",,"שיקום, הפרעות שינה",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-mahamid-alaa,MedReviews,2026-03-29T18:54:09.130181,עלא מחאמיד,clalit
+"ד""ר סופיה קורדליוק",,ניתוחי אף וסינוסים,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-kordeluk-sofia,MedReviews,2026-03-29T18:54:09.130277,סופיה קורדליוק,"maccabi, meuhedet, leumit"
+"ד""ר מזהר עטאללה",,רפואת עיניים - מחלות רשתית וזגוגית העין,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-atallah-mizhir,MedReviews,2026-03-29T18:54:09.130412,מזהר עטאללה,"clalit, meuhedet, leumit"
+"ד""ר דוד דנון",,גינקולוגיה ומיילדות,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-danon-david,MedReviews,2026-03-29T18:54:09.130571,דוד דנון,"maccabi, meuhedet"
+"ד""ר יואל טולדנו",,אנדוקרינולוגיה,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-toledano-yoel,MedReviews,2026-03-29T18:54:09.130597,יואל טולדנו,"meuhedet, leumit"
+"ד""ר וסים ותד",,"כירורגיית האוזן ושיקום השמיעה, סחרחורת וטנטון",,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-watad-waseem,MedReviews,2026-03-29T18:54:09.130630,וסים ותד,"clalit, leumit"
+"ד""ר שירה שור",,גסטרואנטרולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-shur-shira,MedReviews,2026-03-29T18:54:09.130714,שירה שור,maccabi
+"ד""ר ויקטור קוראקין",,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-kurakin-victor,MedReviews,2026-03-29T18:54:09.130905,ויקטור קוראקין,"clalit, maccabi, meuhedet"
+"ד""ר ורד ליבנה",,נוירולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-livneh-vered,MedReviews,2026-03-29T18:54:09.130918,ורד ליבנה,leumit
+"ד""ר אמיר ויס",,פיריון האישה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-weiss-amir,MedReviews,2026-03-29T18:54:09.130933,אמיר ויס,clalit
+"ד""ר פטריק שטפלר",,פולמונולוג ילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-stafler-patrick,MedReviews,2026-03-29T18:54:09.130970,פטריק שטפלר,clalit
+"ד""ר ענת שמואלי",,מיילדות וגינקולוגיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-shmueli-anat,MedReviews,2026-03-29T18:54:09.131238,ענת שמואלי,clalit
+"ד""ר אפרת שפיגל",,מיילדות וגינקולוגיה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-spiegel-efrat,MedReviews,2026-03-29T18:54:11.598432,אפרת שפיגל,"clalit, leumit"
+"ד""ר אילן זהבי",,גסטרואנטרולוגיה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-zahavi-ilan,MedReviews,2026-03-29T18:54:11.598570,אילן זהבי,"clalit, leumit"
+"ד""ר גלעד חמדני",,נפרולוגיה ילדים,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-hamdani-gilad,MedReviews,2026-03-29T18:54:11.598740,גלעד חמדני,"maccabi, leumit"
+פרופ' רועי מנו,,"כירורגיה אורולוגית, אורולוגיה אונקולוגית",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-mano-roy,MedReviews,2026-03-29T18:54:11.598843,רועי מנו,"clalit, maccabi"
+"ד""ר יוסף בלום",,רפואת אף אוזן גרון וראש צוואר,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-bloom-joseph,MedReviews,2026-03-29T18:54:11.598937,יוסף בלום,"maccabi, leumit"
+"ד""ר חנוך שרייבר",,אולטרה סאונד במיילדות וגינקולוגיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-schreiber-hanoch,MedReviews,2026-03-29T18:54:11.598947,חנוך שרייבר,clalit
+"ד""ר עאמר בראנסי",,"כירורגיה פלסטית, אסתטית ומשחזרת",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-baransi-amer,MedReviews,2026-03-29T18:54:11.598957,עאמר בראנסי,clalit
+"ד""ר קרלוס אידסס",,רפואת עור ומין,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-ideses-carlos,MedReviews,2026-03-29T18:54:11.599021,קרלוס אידסס,"maccabi, meuhedet"
+"ד""ר עמית שגיא",,אורתופדיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-sagi-amit,MedReviews,2026-03-29T18:54:11.599059,עמית שגיא,clalit
+פרופ' דוד חזן,,"כירורגיה כללית, לפרוסקופית ורובוטית",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/prof-hazzan-david,MedReviews,2026-03-29T18:54:11.599105,דוד חזן,"maccabi, meuhedet"
+פרופ' דן עטר,,אורתופדיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/prof-atar-dan,MedReviews,2026-03-29T18:54:11.599248,דן עטר,clalit
+"ד""ר ירון ארליך",,אורולוגיה,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-ehrlich-yaron,MedReviews,2026-03-29T18:54:11.599339,ירון ארליך,"maccabi, leumit"
+פרופ' שי גולן,,אורולוגיה אונקולוגית,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/prof-golan-shay,MedReviews,2026-03-29T18:54:11.599358,שי גולן,"clalit, leumit"
+"ד""ר ברנרדו מלמוד",,גסטרואנטרולוגיה,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-melamud-bernardo,MedReviews,2026-03-29T18:54:11.599418,ברנרדו מלמוד,"maccabi, meuhedet"
+"ד""ר סיון סקוירסקי",,גינקולוגיה ופריון האישה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-skvirsky-sivan,MedReviews,2026-03-29T18:54:11.599427,סיון סקוירסקי,"clalit, maccabi"
+"ד""ר אמין ביאדסה",,אף אוזן גרון,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-biadsee-ameen,MedReviews,2026-03-29T18:54:11.599469,אמין ביאדסה,maccabi
+פרופ' מרדכי גוטמן,,כירורגית שד,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/prof-gutman-mordechai,MedReviews,2026-03-29T18:54:11.599542,מרדכי גוטמן,"clalit, maccabi, meuhedet"
+"ד""ר ויסאם גבן",,"גריאטריה,פסיכוגריאטריה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-ghaben-wisam,MedReviews,2026-03-29T18:54:11.599611,ויסאם גבן,"clalit, maccabi, meuhedet, leumit"
+"ד""ר יהונתן קפלן",,"רפואת עור, ניתוחי מוז (Mohs) וכירורגיה דרמטולוגית",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-kaplan-yehonatan,MedReviews,2026-03-29T18:54:11.599676,יהונתן קפלן,"clalit, maccabi"
+פרופ' סרגיי ספקטור,,"נוירוכירורגיה - ניתוחי ראש, מוח ובסיס גולגולת",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-spektor-sergey,MedReviews,2026-03-29T18:54:13.335800,סרגיי ספקטור,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אייל כהן",,רפואת עיניים,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-cohen-eyal,MedReviews,2026-03-29T18:54:13.335865,אייל כהן,meuhedet
+"ד""ר אילן פלדמן",,"מומחה בניתוחי עפעפיים, דרכי דמעות וארובה",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-feldman-ilan,MedReviews,2026-03-29T18:54:13.335909,אילן פלדמן,"maccabi, meuhedet, leumit"
+"ד""ר וליד קסיס",,כירורגיה לפרוסקופית מתקדמת ובריאטרית (ניתוחי השמנת יתר ),,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-kassis-walid,MedReviews,2026-03-29T18:54:13.335938,וליד קסיס,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אלי ספיר",,אונקולוגיה קרינתית (רדיותרפיה),,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-sapir-eli,MedReviews,2026-03-29T18:54:13.335959,אלי ספיר,"meuhedet, leumit"
+"ד""ר יחזקאל לוי",,ניתוחי קטרקט,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-levy-yehelkel,MedReviews,2026-03-29T18:54:13.336200,יחזקאל לוי,clalit
+"ד""ר סרגיי דומצ'יק",,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-domchik-sergey,MedReviews,2026-03-29T18:54:13.336255,סרגיי דומצ'יק,"clalit, maccabi, meuhedet"
+"ד""ר עלי יאסין",,אורתופדיה ברכיים,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-yasin-ali,MedReviews,2026-03-29T18:54:13.336299,עלי יאסין,"clalit, maccabi"
+"ד""ר הילה אלפסי",,כירורגיה פלסטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-alfassi-hila,MedReviews,2026-03-29T18:54:13.336309,הילה אלפסי,clalit
+"ד""ר גבי שמש",,רפואת עיניים,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-shemesh-gabi,MedReviews,2026-03-29T18:54:13.336330,גבי שמש,"clalit, meuhedet"
+"ד""ר טליה מאיר",,רפואת עור ורפואה אסתטית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-mayer-talia,MedReviews,2026-03-29T18:54:13.336402,טליה מאיר,maccabi
+"ד""ר אופיר בן-גל",,"כירורגיה אורתופדית ואורתופדיה אונקולוגית, אורתופדיה כללית",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-ben-gal-ofir,MedReviews,2026-03-29T18:54:13.336615,אופיר בן-גל,maccabi
+"ד""ר רון רוזנטל",,אורתופדית ספורט ופציעות ברך,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-rosental-ron,MedReviews,2026-03-29T18:54:13.336666,רון רוזנטל,"clalit, maccabi, meuhedet, leumit"
+"ד""ר רן טליסמן",,כירורגיה פלסטית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-talisman-ran,MedReviews,2026-03-29T18:54:13.336712,רן טליסמן,"clalit, maccabi"
+"ד""ר אילת פריאל",,אוקולופלסטיקה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-priel-ayelet,MedReviews,2026-03-29T18:54:13.336822,אילת פריאל,maccabi
+"ד""ר זאב פלדברין",,אורתופדיה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-feldbrin-zeev,MedReviews,2026-03-29T18:54:15.039181,זאב פלדברין,"clalit, maccabi"
+"ד""ר יורם דקל",,כירורגיה אורולוגית,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-dekel-yoram,MedReviews,2026-03-29T18:54:15.039240,יורם דקל,"clalit, leumit"
+"ד""ר גיא תם",,עיניים- נוירואופתלמולוגיה,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-tam-guy,MedReviews,2026-03-29T18:54:15.039386,גיא תם,"maccabi, meuhedet"
+פרופ' יאיר מורד,,רפואת עיניים בילדים,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/prof-morad-yair,MedReviews,2026-03-29T18:54:15.039479,יאיר מורד,"maccabi, meuhedet"
+פרופ' דמיטרי יניקייב,,כירורגיה אונקו-אורולוגית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/prof-enikeev-dmitry,MedReviews,2026-03-29T18:54:15.039492,דמיטרי יניקייב,clalit
+"ד""ר שהם אליאס",,ניתוחי ברך ורפואת ספורט,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-elias-shahem,MedReviews,2026-03-29T18:54:15.039513,שהם אליאס,"clalit, maccabi"
+"ד""ר קטיה אלגרט",,אף אוזן גרון ומחלות ראש צוואר בילדים ומבוגרים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-elgart-katya,MedReviews,2026-03-29T18:54:15.039530,קטיה אלגרט,maccabi
+"ד""ר ינון שפירא",,"אוקולופלסטיקה, דרכי דמעות, וארובת העין",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-shapira-yinon,MedReviews,2026-03-29T18:54:15.039725,ינון שפירא,maccabi
+"ד""ר חגי אמסלם",,רפואת נשים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-amsalem-hagai,MedReviews,2026-03-29T18:54:15.039778,חגי אמסלם,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אחמד אסדי",,"כירורגיה לפרוסקופית מתקדמת וכללית , כירורגיה בריאטרית",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-ahmad-asadi,MedReviews,2026-03-29T18:54:15.039989,אחמד אסדי,leumit
+"ד""ר ענאן חוסיין",,אנדרולוגיה (פריון הגבר ותפקוד מיני),,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-hussein-anan,MedReviews,2026-03-29T18:54:15.040140,ענאן חוסיין,clalit
+פרופ' יצחק ביטון,,הפרעות קצב,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-biton-yitschak,MedReviews,2026-03-29T18:54:15.040326,יצחק ביטון,"clalit, maccabi, meuhedet, leumit"
+"ד""ר יאיר לנדאו",,"כירורגיה אורתופדית, כירורגיה של היד והמרפק ומיקרוכירורגיה",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-landau-yair,MedReviews,2026-03-29T18:54:15.040452,יאיר לנדאו,clalit
+פרופ' אילן שמעון,,אנדוקרינולוגיה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/prof-shimon-ilan,MedReviews,2026-03-29T18:54:15.040507,אילן שמעון,"clalit, leumit"
+"ד""ר בדראן בדראן",,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-badran-badran,MedReviews,2026-03-29T18:54:15.040567,בדראן בדראן,"clalit, maccabi, meuhedet"
+"ד""ר אחמד ספדי",,"אא""ג וניתוחי ראש צוואר",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-safadi-ahmad,MedReviews,2026-03-29T18:54:15.040861,אחמד ספדי,meuhedet
+"ד""ר ואסים משיעל",,כירורגיה אורתופדית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-mcheal-wasim,MedReviews,2026-03-29T18:54:15.040888,ואסים משיעל,"maccabi, meuhedet"
+"ד""ר חגי קליין",,כירורגיה של הכתף,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-klein-hagai,MedReviews,2026-03-29T18:54:15.040986,חגי קליין,maccabi
+"ד""ר עלאא עבוד",,כירורגיה אורתופדית,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-abboud-alaa,MedReviews,2026-03-29T18:54:17.785283,עלאא עבוד,meuhedet
+"ד""ר רון ארבל",,,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-arbel-ron,MedReviews,2026-03-29T18:54:17.785345,רון ארבל,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אליאס מנסא",,כירורגיה כללית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-manassa-elias,MedReviews,2026-03-29T18:54:17.785367,אליאס מנסא,maccabi
+"ד""ר גלב מוצ'לוב",,כירורגיה אורתופדית,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-mochalov-gleb,MedReviews,2026-03-29T18:54:17.785381,גלב מוצ'לוב,"maccabi, leumit"
+"ד""ר רות גור",,מרפאת כאב ונוירוכירורגיה,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-gur-ruth,MedReviews,2026-03-29T18:54:17.785451,רות גור,"maccabi, leumit"
+"ד""ר אריאל פולונסקי",,גינקולוגיה אונקולוגית וכירורגיה גינקולוגית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-polonsky-ariel,MedReviews,2026-03-29T18:54:17.785496,אריאל פולונסקי,maccabi
+"ד""ר קונסטנטין למיקין",,אורתופדיה,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-lamykin-konstantin,MedReviews,2026-03-29T18:54:17.785636,קונסטנטין למיקין,"maccabi, meuhedet"
+"ד""ר שי ברמן",,רפואת נשים ומיילדות,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-berman-shai,MedReviews,2026-03-29T18:54:17.785650,שי ברמן,"maccabi, meuhedet"
+פרופ' טובה ליפשיץ,,רפואת עיניים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-lifshitz-tova,MedReviews,2026-03-29T18:54:17.785724,טובה ליפשיץ,"clalit, maccabi, meuhedet, leumit"
+פרופ' רפאל רוסו,,קרדיולוגיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-rosso-raphael,MedReviews,2026-03-29T18:54:17.785771,רפאל רוסו,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אשרף ח'אטר",,אף אוזן וגרון וניתוחי ראש צוואר וניתוחי אף וסינוסים,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-khater-ashraf,MedReviews,2026-03-29T18:54:17.785782,אשרף ח'אטר,"clalit, meuhedet, leumit"
+"ד""ר מיטל אלמוג",,אימונולוגיה/אלרגולוגיה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-almog-meital,MedReviews,2026-03-29T18:54:17.785809,מיטל אלמוג,"clalit, leumit"
+"ד""ר אורי פרקש",,כירורגיה של היד,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-farkash-uri,MedReviews,2026-03-29T18:54:17.785825,אורי פרקש,"clalit, meuhedet, leumit"
+"ד""ר דורון שינדל",,אף-אוזן-גרון,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-schindel-doron,MedReviews,2026-03-29T18:54:17.785862,דורון שינדל,clalit
+"ד""ר ווהבי ווהבי",,רפואת עיניים,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-wahabi-wahabi,MedReviews,2026-03-29T18:54:17.785888,ווהבי ווהבי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר גיל פרץ",,רפואת עיניים,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-peretz-gil,MedReviews,2026-03-29T18:54:17.785910,גיל פרץ,"maccabi, meuhedet"
+"ד""ר מאיר זמל",,"כירורגיה כללית, קולורקטלית ופרוקטולוגית",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-zemel-meir,MedReviews,2026-03-29T18:54:17.785963,מאיר זמל,"clalit, maccabi"
+"ד""ר יובל גרובר",,נוירוכירורגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-grober-yuval,MedReviews,2026-03-29T18:54:17.785981,יובל גרובר,maccabi
+"ד""ר כאמל עמאשה",,גריאטריה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-amasha-kamel,MedReviews,2026-03-29T18:54:17.785998,כאמל עמאשה,maccabi
+"ד""ר יאיר זלוטניק",,נוירולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-zlotnik-yair,MedReviews,2026-03-29T18:54:17.786042,יאיר זלוטניק,leumit
+"ד""ר עמאד מטאנס",,גינקו-אונקולוגיה,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-matanes-emad,MedReviews,2026-03-29T18:54:17.786145,עמאד מטאנס,"clalit, maccabi, meuhedet"
+"ד""ר מוסטפא נעאמנה",,אורתופדיית כף היד,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-naamnih-mustasa,MedReviews,2026-03-29T18:54:17.786153,מוסטפא נעאמנה,"meuhedet, leumit"
+"ד""ר שושנה דוד",,גריאטריה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-david-shoshana,MedReviews,2026-03-29T18:54:20.501974,שושנה דוד,maccabi
+פרופ' בנימין וולוביץ,,רפואת ריאות ילדים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/prof-volovitz-benjamin,MedReviews,2026-03-29T18:54:20.501987,בנימין וולוביץ,maccabi
+"ד""ר לילך גולדשטיין",,נוירולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-goldstein-lilach,MedReviews,2026-03-29T18:54:20.501998,לילך גולדשטיין,leumit
+"ד""ר אפרת פלייסיג",,מחלות רשתית,,,,,,,,0,1,0,1,https://www.medreviews.co.il/provider/dr-fleissig-efrat,MedReviews,2026-03-29T18:54:20.502019,אפרת פלייסיג,"maccabi, leumit"
+"ד""ר מרואן גנטוס",,אורתופדיה ברכיים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-ghantous-marwan,MedReviews,2026-03-29T18:54:20.502052,מרואן גנטוס,clalit
+"ד""ר סוהיל גרה",,רפואת אף אוזן גרון וניתוחי ראש צוואר,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-gharra-suhail,MedReviews,2026-03-29T18:54:20.502149,סוהיל גרה,clalit
+פרופ' מיכאל דרקסלר,,החלפות מפרקים בעזרת רובוט,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/prof-drexler-michael,MedReviews,2026-03-29T18:54:20.502158,מיכאל דרקסלר,"maccabi, meuhedet, leumit"
+"ד""ר מרואן אליאס",,כירורגיה כללית וכירורגית ילדים,,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-elias-marwan,MedReviews,2026-03-29T18:54:20.502171,מרואן אליאס,"clalit, maccabi, leumit"
+"ד""ר נתן סילבר",,"כירורגית כף יד, החלפת מפרקים של כף היד ושורש היד",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-silver-natan,MedReviews,2026-03-29T18:54:20.502195,נתן סילבר,"clalit, meuhedet, leumit"
+"ד""ר סעיד יאסין",,נוירוכירורגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-yassin-saeed,MedReviews,2026-03-29T18:54:20.502209,סעיד יאסין,maccabi
+"ד""ר עבדאללה פואז",,ראומטולוגיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-fawaz-abdallah,MedReviews,2026-03-29T18:54:20.502231,עבדאללה פואז,"clalit, maccabi, meuhedet, leumit"
+"ד""ר בועז ליברמן",,"אורתופדיה אונקולוגית, החלפות מפרקים מורכבות וחוזרות",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-liberman-boaz,MedReviews,2026-03-29T18:54:20.502259,בועז ליברמן,"maccabi, meuhedet, leumit"
+"ד""ר יונתן שפירא",,רפואת עור ומין,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-shapiro-jonathan,MedReviews,2026-03-29T18:54:20.502277,יונתן שפירא,leumit
+"ד""ר סבטלנה ברנר",,קרדיולוגיה,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-brener-svetlana,MedReviews,2026-03-29T18:54:20.502390,סבטלנה ברנר,"maccabi, meuhedet"
+"ד""ר מוחמד כליפה",,כירורגיה קולורקטלית ופרוקטולוגית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-khalifa-muhammad,MedReviews,2026-03-29T18:54:20.502395,מוחמד כליפה,"clalit, maccabi"
+פרופ' מעין קניגשטיין,,קרדיולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/prof-konigstein-maayan,MedReviews,2026-03-29T18:54:20.502400,מעין קניגשטיין,leumit
+"ד""ר שירלי שוחט",,כירורגיה פלסטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-shohat-shirly,MedReviews,2026-03-29T18:54:23.285447,שירלי שוחט,clalit
+"ד""ר ענאן עבאסי",,רפואת עיניים,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-abbasi-anan,MedReviews,2026-03-29T18:54:23.285489,ענאן עבאסי,leumit
+"ד""ר פולינה שוורצמן",,גינקולוגיה ומיילדות,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-schwarzman-polina,MedReviews,2026-03-29T18:54:23.285541,פולינה שוורצמן,"clalit, maccabi"
+"ד""ר מוחמד מג'דוב",,אורולוגיה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-majdoub-muhammad,MedReviews,2026-03-29T18:54:23.285606,מוחמד מג'דוב,"clalit, maccabi"
+"ד""ר סעיד מסארוה",,כירורגיה פלסטית ואסתטית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-massarwa-said,MedReviews,2026-03-29T18:54:23.285625,סעיד מסארוה,clalit
+"ד""ר בנימין ברנפלד",,"החלפות מפרקי ברך וירך, רפואת ספורט וארתרוסקופיות",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-bernfeld-benjamin,MedReviews,2026-03-29T18:54:23.285726,בנימין ברנפלד,"clalit, maccabi, meuhedet, leumit"
+"ד""ר דניאל קוטלר",,ניתוחי קטרקט וגלאוקומה,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-cotlear-daniel,MedReviews,2026-03-29T18:54:23.285740,דניאל קוטלר,"clalit, meuhedet, leumit"
+"ד""ר טל טוביאס",,"כירורגיה פלסטית, אסתטית ומשחזרת",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-tobias-tal,MedReviews,2026-03-29T18:54:23.285785,טל טוביאס,clalit
+"ד""ר עדי ליכטנשטיין",,כירורגיה אורתופדית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-lichtenstein-adi,MedReviews,2026-03-29T18:54:23.285819,עדי ליכטנשטיין,"clalit, maccabi"
+"ד""ר אלון טל",,גינקולוגיה אונקולוגית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-tal-alon,MedReviews,2026-03-29T18:54:23.285979,אלון טל,"maccabi, meuhedet"
+"ד""ר רבחי מנסור",,ראומטולוגיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-mansour-ribhi,MedReviews,2026-03-29T18:54:23.286009,רבחי מנסור,clalit
+"ד""ר גיל גנות",,כירורגיה של כף היד,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-gannot-gil,MedReviews,2026-03-29T18:54:23.286032,גיל גנות,clalit
+"ד""ר עומר רוט",,רפואת עיניים ואסתטיקה רפואית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-roth-omer,MedReviews,2026-03-29T18:54:23.286050,עומר רוט,clalit
+"ד""ר יוליה אפשטיין",,גסטרואנטרולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-epstein-julia,MedReviews,2026-03-29T18:54:23.286092,יוליה אפשטיין,maccabi
+"ד""ר חוסין סלימאן",,קרדיולוגיה פולשנית וצנתורים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-sliman-hussein,MedReviews,2026-03-29T18:54:23.286158,חוסין סלימאן,clalit
+"ד""ר אניס כלדאוי",,כירורגיה גינקולוגית זעיר פולשנית מתקדמת,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-kaldawy-anis,MedReviews,2026-03-29T18:54:23.286299,אניס כלדאוי,"clalit, maccabi, meuhedet"
+פרופ' דוד ליפשיץ,,אורלוגיה זעיר פולשנית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-lifshitz-david,MedReviews,2026-03-29T18:54:26.549626,דוד ליפשיץ,"clalit, maccabi, meuhedet, leumit"
+"ד""ר סרי בולוס",,גינקולוגיה ומיילדות,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-boulus-sari,MedReviews,2026-03-29T18:54:26.549638,סרי בולוס,"clalit, maccabi"
+"ד""ר עלי סלימאן",,אורתופדיית עמוד השדרה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-sleiman-ali,MedReviews,2026-03-29T18:54:26.549661,עלי סלימאן,clalit
+פרופ' דריו פרייס,,מחלות ריאה בילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-prais-dario,MedReviews,2026-03-29T18:54:26.549687,דריו פרייס,clalit
+"ד""ר לוצ'ילה זורזטי",,"רפואת נשים, הריון בסיכון גבוה",,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-zorzetti-lucilla,MedReviews,2026-03-29T18:54:26.549699,לוצ'ילה זורזטי,clalit
+"ד""ר דורון סודרסקי",,קרדיולוגיה פולשנית,,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-sudarsky-doron,MedReviews,2026-03-29T18:54:26.549847,דורון סודרסקי,"clalit, maccabi, leumit"
+"ד""ר וסים נסאר",,"מומחה אא""ג מטפל במבוגרים וילדים",,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/dr-nassar-waseem,MedReviews,2026-03-29T18:54:26.549867,וסים נסאר,"maccabi, meuhedet, leumit"
+"ד""ר איתי לביא",,ניתוחי קטרקט בלייזר,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-lavy-itay,MedReviews,2026-03-29T18:54:26.549901,איתי לביא,"clalit, maccabi, meuhedet, leumit"
+"ד""ר תמי ציוני",,כירורגית שד,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-zioni-tammy,MedReviews,2026-03-29T18:54:26.549937,תמי ציוני,clalit
+"ד""ר חסן קיס",,כירורגיה לפרוסקופית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-kais-hasan,MedReviews,2026-03-29T18:54:26.550016,חסן קיס,"clalit, maccabi, meuhedet, leumit"
+"ד""ר עמרי סולימני",,"כירורגיה כללית, ניתוחי כבד, לבלב, דרכי מרה",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-sulimani-omri,MedReviews,2026-03-29T18:54:26.550059,עמרי סולימני,maccabi
+"ד""ר אור תומר",,קרדיולוגיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-tomer-orr,MedReviews,2026-03-29T18:54:29.114021,אור תומר,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אביעד גרביץ",,השתלות איברים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-gravetz-aviad,MedReviews,2026-03-29T18:54:29.114125,אביעד גרביץ,clalit
+"ד""ר אושר כהן",,כירורגיית ילדים,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-cohen-osher,MedReviews,2026-03-29T18:54:29.114142,אושר כהן,"clalit, leumit"
+"ד""ר גל ברקאי",,"עמוד שדרה, אורתופדיה",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-barkay-gal,MedReviews,2026-03-29T18:54:29.114273,גל ברקאי,"clalit, maccabi, meuhedet, leumit"
+"ד""ר בנימין רסקין",,כירורגיה כללית,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-raskin-benjamin,MedReviews,2026-03-29T18:54:29.114430,בנימין רסקין,leumit
+"ד""ר מיכאל עסאף",,אורתופדיה ילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-assaf-michael,MedReviews,2026-03-29T18:54:29.114453,מיכאל עסאף,clalit
+"ד""ר רון בטש",,מומחה לסרקומות ואורתופדיה אונקולוגית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-batash-ron,MedReviews,2026-03-29T18:54:29.114527,רון בטש,"maccabi, meuhedet"
+"ד""ר רוסלן סוקולוב",,אורתופדיה כף רגל וקרסול,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-sokolov-ruslan,MedReviews,2026-03-29T18:54:29.114592,רוסלן סוקולוב,"clalit, meuhedet"
+"ד""ר יונית שכטמן",,גינקולוגיה ומיילדות,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-schechtman-yonit,MedReviews,2026-03-29T18:54:29.114639,יונית שכטמן,meuhedet
+פרופ’ אהוד רענני,,ניתוחי לב,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-raanani-ehud,MedReviews,2026-03-29T18:54:29.114773,אהוד רענני,"clalit, maccabi, meuhedet, leumit"
+"ד""ר ליאור טולקין",,אנדוקרינולוגיה,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-tolkin-lior,MedReviews,2026-03-29T18:54:29.114849,ליאור טולקין,"clalit, meuhedet"
+"ד""ר אייל רום",,"כירורגיה גינקולוגית, אורוגינקולוגיה",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-rom-eyal,MedReviews,2026-03-29T18:54:32.183394,אייל רום,maccabi
+"ד""ר מיטל הבר",,רפואת עור ומין,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-haber-meital,MedReviews,2026-03-29T18:54:32.183461,מיטל הבר,maccabi
+"ד""ר אליאס מזאוי",,החלפות מפרקים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-mazzawi-elias,MedReviews,2026-03-29T18:54:32.183497,אליאס מזאוי,maccabi
+"ד""ר נעים ערטול",,גסטרואנטרולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-artoul-naim,MedReviews,2026-03-29T18:54:32.183511,נעים ערטול,maccabi
+"ד""ר יאנה ברודנר",,גינקולוגיה ומיילדות,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-brudner-yana,MedReviews,2026-03-29T18:54:32.183680,יאנה ברודנר,clalit
+"ד""ר אנטון קבאשה",,כירורגיית כלי דם,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-kvasha-anton,MedReviews,2026-03-29T18:54:32.183901,אנטון קבאשה,meuhedet
+"ד""ר שי גוטפרוינד",,"קטרקט, קרנית",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-gutfreund-shay,MedReviews,2026-03-29T18:54:32.183917,שי גוטפרוינד,maccabi
+פרופ' נאסר סקרן,,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/prof-sakran-nasser,MedReviews,2026-03-29T18:54:32.183956,נאסר סקרן,"clalit, maccabi, meuhedet"
+"ד""ר פהד סכס",,רפואת משפחה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-sakas-fahed,MedReviews,2026-03-29T18:54:35.455043,פהד סכס,clalit
+"ד""ר משגב רוטנשטרייך",,גינקולוגיה ומיילדות,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/dr-rottenstreich-misgav,MedReviews,2026-03-29T18:54:35.455085,משגב רוטנשטרייך,"meuhedet, leumit"
+"ד""ר יונתן בוטבול",,ראומטולוגיה ילדים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-butbul-yonatan,MedReviews,2026-03-29T18:54:35.455181,יונתן בוטבול,clalit
+פרופ' אהוד ראט,,אורתופדיה,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/prof-rath-ehud,MedReviews,2026-03-29T18:54:35.455312,אהוד ראט,"clalit, maccabi, meuhedet, leumit"
+יוסף מנסור,,פיזיותרפיה,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/mansour-youssif,MedReviews,2026-03-29T18:54:35.455383,יוסף מנסור,"clalit, meuhedet"
+"ד""ר מוראד צפורי",,רפואת עיניים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-saffouri-murad,MedReviews,2026-03-29T18:54:35.455394,מוראד צפורי,clalit
+"ד""ר רביע קאסם",,רפואת עיניים,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-kassem-rabea,MedReviews,2026-03-29T18:54:35.455418,רביע קאסם,"clalit, maccabi"
+"ד""ר עלאא זחאלקה",,כירורגיה כללית,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-zahalka-alaa,MedReviews,2026-03-29T18:54:35.455500,עלאא זחאלקה,clalit
+"ד""ר יורם גלעדי",,גינקולוגיה ומיילדות,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-giladi-yoram,MedReviews,2026-03-29T18:54:35.455523,יורם גלעדי,leumit
+"ד""ר דוד קריחלי",,רפואת עור ומין,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-krichely-david,MedReviews,2026-03-29T18:54:35.455539,דוד קריחלי,clalit
+"ד""ר אורן זלוטניק",,כירורגיה כללית,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-zlotnik-oran,MedReviews,2026-03-29T18:54:35.455565,אורן זלוטניק,meuhedet
+"ד""ר ארז רמתי",,"אנדוקרינולוגיה, סוכרת",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-ramaty-erez,MedReviews,2026-03-29T18:54:35.455638,ארז רמתי,maccabi
+"ד""ר בעז שיזף",,כירורגיה גינקולוגית,,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-sheizaf-boaz,MedReviews,2026-03-29T18:54:35.455792,בעז שיזף,"clalit, maccabi, meuhedet, leumit"
+"ד""ר מאיר רייכר",,קרדיולוגיה,,,,,,,,1,1,0,1,https://www.medreviews.co.il/provider/dr-reicher-meir,MedReviews,2026-03-29T18:54:35.455837,מאיר רייכר,"clalit, maccabi, leumit"
+"ד""ר אופיר פז",,"קרדיולוגיה, אלקטופיזיולוגיה",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-offir-paz,MedReviews,2026-03-29T18:54:38.377386,אופיר פז,"clalit, maccabi"
+"ד""ר טובי רסין",,קרדיולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-rasin-tobi,MedReviews,2026-03-29T18:54:38.377518,טובי רסין,leumit
+"ד""ר מיכאל פאר",,כירורגית חזה,,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-peer-michael,MedReviews,2026-03-29T18:54:38.377534,מיכאל פאר,"clalit, meuhedet, leumit"
+פרופ' מרדכי קראוס,,"אף, אוזן, גרון וכירורגיית ראש-צוואר",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-kraus-mordechai,MedReviews,2026-03-29T18:54:38.377573,מרדכי קראוס,"clalit, maccabi"
+"ד""ר ניר קוגלמן",,פיריון האישה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-kugelman-nir,MedReviews,2026-03-29T18:54:38.377598,ניר קוגלמן,clalit
+"ד""ר אלכסנדר קובל",,רפואת ילדים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-koval-alexander,MedReviews,2026-03-29T18:54:38.377720,אלכסנדר קובל,maccabi
+"ד""ר רוני כהן",,גינקולוגיה ומיילדות,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-cohen-ronnie,MedReviews,2026-03-29T18:54:38.377726,רוני כהן,"clalit, leumit"
+"ד""ר סאהר אסדי",,דימות הבטן והאגן,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-asadi-sahir,MedReviews,2026-03-29T18:54:38.377764,סאהר אסדי,meuhedet
+"ד""ר משה קמר",,כירורגיה כללית,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-kamar-moshe,MedReviews,2026-03-29T18:54:38.377819,משה קמר,"clalit, meuhedet"
+"ד""ר רות בלוך",,"רפואת נשים, אולטרה סאונד גינקולוגי",,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-bloch-ruth,MedReviews,2026-03-29T18:54:38.377892,רות בלוך,leumit
+"ד""ר וליד סמרי",,נוירולוגיה,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-simri-waleed,MedReviews,2026-03-29T18:54:38.377900,וליד סמרי,"clalit, leumit"
+"ד""ר וסים חילו",,עיניים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-hilo-waseem,MedReviews,2026-03-29T18:54:38.377908,וסים חילו,clalit
+"ד""ר מקבל שלח",,כירורגיה אורתופדית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/dr-shalah-mekbel,MedReviews,2026-03-29T18:54:40.467370,מקבל שלח,"clalit, maccabi, meuhedet"
+"ד""ר עמית וולפוביץ",,"אף אוזן גרון, ניתוחי ראש צוואר",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-wolfovitz-amit,MedReviews,2026-03-29T18:54:40.467449,עמית וולפוביץ,meuhedet
+"ד""ר מימון מוסא",,סקירות מערכות,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-maimon-mousa,MedReviews,2026-03-29T18:54:40.467486,מימון מוסא,clalit
+"ד""ר אריה גרינברג",,"אורתופדיה, החלפות מפרקים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-greenberg-arie,MedReviews,2026-03-29T18:54:40.467533,אריה גרינברג,"clalit, maccabi"
+פרופ' יעקב גניזי,,נוירולוגית ילדים,,,,,,,,0,0,1,1,https://www.medreviews.co.il/provider/prof-genizi-jacob,MedReviews,2026-03-29T18:54:40.467543,יעקב גניזי,"meuhedet, leumit"
+"ד""ר מחמד אלדדא",,כירורגיה אורתופדית,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-eldada-muhamad,MedReviews,2026-03-29T18:54:40.467667,מחמד אלדדא,"clalit, meuhedet"
+"ד""ר אהרון מדינה",,קרדיולוגיה,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-medina-aharon,MedReviews,2026-03-29T18:54:40.467777,אהרון מדינה,"clalit, maccabi"
+"ד""ר אריאל ניימן",,כירורגיה פלסטית,,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/dr-neiman-ariel,MedReviews,2026-03-29T18:54:40.467983,אריאל ניימן,"maccabi, meuhedet"
+"ד""ר מג'די נפאע",,גריאטריה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-nafaa-majdi,MedReviews,2026-03-29T18:54:41.817218,מג'די נפאע,maccabi
+"ד""ר פיראס פאהום",,נוירולוגיה,,,,,,,,0,0,0,1,https://www.medreviews.co.il/provider/dr-fahoum-firas,MedReviews,2026-03-29T18:54:41.817230,פיראס פאהום,leumit
+"ד""ר שי שניידר",,"רינולוגיה, כירורגיה אנדוסקופית של האף, סינוסים ובסיס הגולגולת",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-schneider-shay,MedReviews,2026-03-29T18:54:41.817401,שי שניידר,maccabi
+פרופ' רועי לנדסברג,,"רינולוגיה, כירורגיה אנדוסקופית של האף, סינוסים ובסיס הגולגולת",,,,,,,,0,1,1,0,https://www.medreviews.co.il/provider/prof-landsberg-roee,MedReviews,2026-03-29T18:54:41.817421,רועי לנדסברג,"maccabi, meuhedet"
+פרופ' עודד כהן,,כירורגייה אונקולוגית של ראש-צוואר,,,,,,,,0,1,1,1,https://www.medreviews.co.il/provider/prof-cohen-oded,MedReviews,2026-03-29T18:54:41.817519,עודד כהן,"maccabi, meuhedet, leumit"
+"ד""ר קרם עאמר",,רפואה פנימית,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-amar-karem,MedReviews,2026-03-29T18:54:41.818114,קרם עאמר,maccabi
+"ד""ר מיכאל ויינריב",,כירורגיה אורולוגית,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-vainrib-michael,MedReviews,2026-03-29T18:54:41.818359,מיכאל ויינריב,"clalit, meuhedet"
+"ד""ר מיכל ברכה",,כירורגיית שד,,,,,,,,1,0,0,1,https://www.medreviews.co.il/provider/dr-braha-michal,MedReviews,2026-03-29T18:54:43.057140,מיכל ברכה,"clalit, leumit"
+פרופ' רן כץ,,כירורגיה אורולוגית,,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/prof-katz-ran,MedReviews,2026-03-29T18:54:43.057240,רן כץ,"clalit, maccabi"
+פרופ' אביגדור זליקובסקי,,כירורגיית כלי דם,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/prof-zelikovski-avigdor,MedReviews,2026-03-29T18:54:43.057257,אביגדור זליקובסקי,meuhedet
+"ד""ר דמיטרי יעקובוביץ'",,כירורגית כלי דם,,,,,,,,1,0,1,0,https://www.medreviews.co.il/provider/dr-yakubovitch-dmitry,MedReviews,2026-03-29T18:54:43.057344,דמיטרי יעקובוביץ',"clalit, meuhedet"
+"ד""ר דניס רובינשטיין",,"אורתופדיה, החלפות מפרקים",,,,,,,,1,1,0,0,https://www.medreviews.co.il/provider/dr-rubinstein-denis,MedReviews,2026-03-29T18:54:43.057432,דניס רובינשטיין,"clalit, maccabi"
+"ד""ר ערן אלנבוגן",,רפואת עור ומין,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-ellenbogen-eran,MedReviews,2026-03-29T18:54:43.057451,ערן אלנבוגן,maccabi
+"ד""ר ירון סטנובסקי",,קרדיולוגיה,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-stonovski-yaron,MedReviews,2026-03-29T18:54:43.057524,ירון סטנובסקי,clalit
+"ד""ר אליאס חילו",,"קרדיולוגיה, קרדיולוגיה פולשנית",,,,,,,,1,0,1,1,https://www.medreviews.co.il/provider/dr-hellou-elias,MedReviews,2026-03-29T18:54:43.057610,אליאס חילו,"clalit, meuhedet, leumit"
+"ד""ר לואא עומר",,"רפואת עיניים, קרנית",,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-lewaa-omar,MedReviews,2026-03-29T18:54:43.057627,לואא עומר,maccabi
+פרופ' גדעון אלמוגי,,כירורגיה כללית,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/prof-almogy-gideon,MedReviews,2026-03-29T18:54:43.057670,גדעון אלמוגי,"clalit, maccabi, meuhedet"
+"ד""ר מרינה שנק",,רפואת עיניים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-shneck-marina,MedReviews,2026-03-29T18:54:43.057732,מרינה שנק,clalit
+"ד""ר בנימין שטרן",,"ניתוחי קטרקט, ניתוחי לייזר",,,,,,,,1,1,1,1,https://www.medreviews.co.il/provider/dr-stern-benjamin,MedReviews,2026-03-29T18:54:45.494403,בנימין שטרן,"clalit, maccabi, meuhedet, leumit"
+"ד""ר אביאל חדד",,רפואת עיניים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-hadad-aviel,MedReviews,2026-03-29T18:54:45.494776,אביאל חדד,maccabi
+"ד""ר אלינה ואטמאכר",,"סוכרת, טיפול בהשמנה",,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-watmaher-alena,MedReviews,2026-03-29T18:54:45.494896,אלינה ואטמאכר,meuhedet
+פרופ' פואד עאזם,,פריון האישה,,,,,,,,1,1,1,0,https://www.medreviews.co.il/provider/prof-azem-foad,MedReviews,2026-03-29T18:54:45.494953,פואד עאזם,"clalit, maccabi, meuhedet"
+"ד""ר בנימין הלוי",,רפואת עיניים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-halevy-benjamin,MedReviews,2026-03-29T18:54:45.495197,בנימין הלוי,clalit
+"ד""ר חוסיין סמחאת",,החלפת מפרק ברך וירך,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-samhat-hussein,MedReviews,2026-03-29T18:54:45.495336,חוסיין סמחאת,clalit
+"ד""ר ניקול רוזנברג",,נוירולוגיה,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-rozenberg-nikole,MedReviews,2026-03-29T18:54:45.495359,ניקול רוזנברג,maccabi
+"ד""ר אלטייב אגבאריה",,אורתופדיה ברכיים,,,,,,,,1,0,0,0,https://www.medreviews.co.il/provider/dr-agbaria-altaieb,MedReviews,2026-03-29T18:54:48.000571,אלטייב אגבאריה,clalit
+"ד""ר דוד אזרחי",,רפואת עיניים,,,,,,,,0,1,0,0,https://www.medreviews.co.il/provider/dr-ezrachi-david,MedReviews,2026-03-29T18:54:48.000584,דוד אזרחי,maccabi
+"ד""ר יבגניה סוקול",,ראומטולוגיה,,,,,,,,0,0,1,0,https://www.medreviews.co.il/provider/dr-sokol-evgeniya,MedReviews,2026-03-29T18:54:48.000635,יבגניה סוקול,meuhedet

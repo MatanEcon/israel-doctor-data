@@ -15,6 +15,13 @@ This report presents a comprehensive dataset of doctors in Israel, with a focus 
 - **Total records:** 65,619
 - **Unique doctors:** 2,802
 - **Records with kupa affiliation:** 866
+- **MOH-MedReviews matched with kupa:** 431 (after name order fix)
+
+### 1.2 Critical Finding: Hebrew Name Order
+- **MOH format:** `LAST FIRST` (e.g., "זילבר משה")
+- **MedReviews format:** `FIRST LAST` (e.g., "ד"ר משה זילבר")
+- **Before fix:** Only 14 matches
+- **After fix:** 1,148 matches (82x improvement!)
 
 ### 1.2 Data Sources
 
