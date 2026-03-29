@@ -1,18 +1,164 @@
 """
-Scraper for DoctorIndex - Comprehensive Israeli Doctor Database
-https://doctorindex.co.il/
+Scrapers for third-party doctor aggregators.
+MedReviews.co.il - uses GraphQL API (working)
+DoctorIndex.co.il - comprehensive Israeli doctor database
 """
 
 import re
+import json
 from typing import List, Optional, Dict
 
 from src.base_scraper import BaseScraper, ThirdPartyAggregator
 from src.config import DoctorRecord, KUPA_CHOLIM
 
+GRAPHQL_URL = "https://www.medreviews.co.il/graphql"
+
+KUPA_NAME_MAP = {
+    "כללית": "clalit",
+    "כללית מושלם": "clalit",
+    "כללית מושלם פלטינום": "clalit",
+    "מכבי": "maccabi",
+    "מכבי זהב": "maccabi",
+    "מכבי שלי": "maccabi",
+    "מאוחדת": "meuhedet",
+    "מאוחדת עדיף": "meuhedet",
+    "מאוחדת שיא": "meuhedet",
+    "לאומית": "leumit",
+    "לאומית כסף": "leumit",
+    "לאומית זהב": "leumit",
+    "באופן פרטי": "private",
+}
+
+
+class MedReviewsGraphQLScraper(BaseScraper):
+    """
+    Scraper for MedReviews.co.il using their GraphQL API.
+    
+    API discovered through reverse engineering:
+    - Endpoint: https://www.medreviews.co.il/graphql
+    - Query: profilesPageBySearchParams(lang: "he", limit: N, skip: N)
+    - Returns: name, _id, specialization, insurances (with name)
+    """
+
+    KUPA_NAME_MAP = KUPA_NAME_MAP
+
+    def __init__(self):
+        super().__init__("medreviews")
+        self.graphql_url = GRAPHQL_URL
+        self.logger.info("Initialized MedReviews GraphQL scraper")
+
+    def get_total_pages(self, soup=None) -> int:
+        return self.get_total_count()
+
+    def parse_doctor_listing(self, soup) -> List[Dict]:
+        return []
+
+    def _graphql_query(self, limit: int = 100, skip: int = 0) -> Dict:
+        """Execute GraphQL query for doctors."""
+        query = """
+        query GetDoctors($lang: String!, $limit: Int!, $skip: Int!) {
+            profilesPageBySearchParams(lang: $lang, limit: $limit, skip: $skip) {
+                total
+                items {
+                    _id
+                    name
+                    specialization
+                    subSpecialization
+                    slug
+                    insurances {
+                        name
+                    }
+                }
+            }
+        }
+        """
+        payload = {
+            "query": query,
+            "variables": {
+                "lang": "he",
+                "limit": limit,
+                "skip": skip
+            }
+        }
+        response = self._make_request(
+            self.graphql_url,
+            method="POST",
+            headers={"Content-Type": "application/json"},
+            data=json.dumps(payload)
+        )
+        if response:
+            return response.json()
+        return {}
+
+    def _extract_kupot(self, insurances: List[Dict]) -> Dict[str, int]:
+        """Extract kupa affiliations from insurance list."""
+        result = {"clalit": 0, "maccabi": 0, "meuhedet": 0, "leumit": 0}
+        if not insurances:
+            return result
+        for ins in insurances:
+            ins_name = ins.get("name", "")
+            for kupa_pattern, kupa_id in self.KUPA_NAME_MAP.items():
+                if kupa_pattern in ins_name and kupa_id in result:
+                    result[kupa_id] = 1
+        return result
+
+    def _parse_doctor(self, item: Dict) -> DoctorRecord:
+        """Parse a single doctor item into DoctorRecord."""
+        insurances = item.get("insurances", [])
+        kupot = self._extract_kupot(insurances)
+
+        record = DoctorRecord(
+            name=item.get("name", ""),
+            specialty=item.get("specialization"),
+            source_url=f"https://www.medreviews.co.il/provider/{item.get('slug', '')}",
+            source_name="MedReviews"
+        )
+        for kupa_id, val in kupot.items():
+            setattr(record, kupa_id, val)
+        return record
+
+    def get_total_count(self) -> int:
+        """Get total number of profiles."""
+        result = self._graphql_query(limit=1, skip=0)
+        if result and result.get("data"):
+            return result["data"]["profilesPageBySearchParams"]["total"]
+        return 0
+
+    def scrape(self, batch_size: int = 100, max_doctors: Optional[int] = None) -> List[DoctorRecord]:
+        """Scrape all doctors using GraphQL pagination."""
+        records = []
+        skip = 0
+        total = self.get_total_count()
+        self.logger.info(f"Total profiles to scrape: {total}")
+
+        if max_doctors:
+            total = min(total, max_doctors)
+
+        while skip < total:
+            result = self._graphql_query(limit=batch_size, skip=skip)
+            if not result or "data" not in result:
+                self.logger.error(f"Failed to fetch batch at skip={skip}")
+                break
+
+            items = result["data"]["profilesPageBySearchParams"]["items"]
+            if not items:
+                break
+
+            for item in items:
+                record = self._parse_doctor(item)
+                records.append(record)
+
+            self.logger.info(f"Scraped {len(records)}/{total} doctors")
+            skip += batch_size
+            self._random_delay()
+
+        self.records = records
+        return records
+
 
 class DoctorIndexScraper(ThirdPartyAggregator):
     """Scraper for DoctorIndex.co.il - comprehensive Israeli doctor database."""
-    
+
     def __init__(self):
         super().__init__("doctorindex", "https://doctorindex.co.il")
         self.search_url = "https://doctorindex.co.il/search/"

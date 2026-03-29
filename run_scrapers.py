@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from src.config import setup_logging, KUPA_CHOLIM, PROCESSED_DATA_DIR, DATA_DIR
 from src.scrapers import DoctorIndexScraper, MedReviewsScraper, MaccabiScraper
+from src.scrapers.third_party import MedReviewsGraphQLScraper
 from src.scrapers.clalit import ClalitScraper
 from src.scrapers.leumit_meuhedet import LeumitScraper, MeuhedetScraper
 from src.config import DoctorRecord
@@ -34,6 +35,7 @@ class DoctorScraperOrchestrator:
         self.scrapers = {
             "doctorindex": DoctorIndexScraper(),
             "medreviews": MedReviewsScraper(),
+            "medreviews_graphql": MedReviewsGraphQLScraper(),
             "clalit": ClalitScraper(),
             "maccabi": MaccabiScraper(),
             "meuhedet": MeuhedetScraper(),
