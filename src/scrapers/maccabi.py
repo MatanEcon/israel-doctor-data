@@ -16,7 +16,7 @@ class MaccabiScraper(BaseScraper):
     
     def __init__(self):
         super().__init__("maccabi")
-        self.api_base = "https://sereotype.maccabi4u.co.il"
+        self.api_base = "https://serguide.maccabi4u.co.il"
         self.search_endpoint = f"{self.api_base}/heb/doctors/doctorssearchresults/"
         self.cities_endpoint = f"{self.api_base}/api/locations/cities"
         self.specialties = self._get_specialties()

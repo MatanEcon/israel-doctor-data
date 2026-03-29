@@ -6,8 +6,8 @@ https://doctorindex.co.il/
 import re
 from typing import List, Optional, Dict
 
-from .base_scraper import BaseScraper, ThirdPartyAggregator
-from .config import DoctorRecord, KUPA_CHOLIM
+from src.base_scraper import BaseScraper, ThirdPartyAggregator
+from src.config import DoctorRecord, KUPA_CHOLIM
 
 
 class DoctorIndexScraper(ThirdPartyAggregator):
@@ -179,6 +179,13 @@ class MedReviewsScraper(ThirdPartyAggregator):
             if numbers:
                 return int(numbers[0])
         return 0
+    
+    def get_total_pages(self, soup) -> int:
+        """Get total number of pages."""
+        total = self.get_total_count(soup)
+        if total > 0:
+            return (total + 9) // 10  # Assuming ~10 results per page
+        return 1
     
     def scrape_kupa(self, kupa_id: str, insurance_num: int) -> List[DoctorRecord]:
         """Scrape doctors for a specific kupa."""

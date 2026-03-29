@@ -137,6 +137,8 @@ class DoctorRecord:
     clinic_address: Optional[str] = None
     phone: Optional[str] = None
     license_number: Optional[str] = None
+    license_date: Optional[str] = None
+    specialty_registration_date: Optional[str] = None
     clalit: int = 0
     maccabi: int = 0
     meuhedet: int = 0
@@ -161,6 +163,8 @@ class DoctorRecord:
             "clinic_address": self.clinic_address,
             "phone": self.phone,
             "license_number": self.license_number,
+            "license_date": self.license_date,
+            "specialty_registration_date": self.specialty_registration_date,
             "clalit": self.clalit,
             "maccabi": self.maccabi,
             "meuhedet": self.meuhedet,
