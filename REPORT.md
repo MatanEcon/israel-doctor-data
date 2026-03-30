@@ -9,13 +9,24 @@
 
 This report presents a comprehensive dataset of doctors in Israel, with a focus on identifying those affiliated with the four major Kupot Cholim (health funds): Clalit, Maccabi, Meuhedet, and Leumit. The data was collected to support research on dual-practice doctors whose income appears as "atzmai" (self-employed) in tax data but who work in the public health system.
 
+### Current Status: Data Collection Blocked
+
+**CRITICAL ISSUE:** All major data sources are protected by advanced anti-bot systems:
+- **data.gov.il**: Radware anti-bot protection (Imperva/Incapsula)
+- **Maccabi**: Dynamic React app with anti-bot (Radware)
+- **Leumit/Clalit**: Similar protections
+
+**Current coverage:** ~1,148 matched doctors with kupa affiliations (target: ~40,000)
+
 ## 1. Dataset Overview
 
 ### 1.1 Total Records
-- **Total records:** 65,619
-- **Unique doctors:** 2,802
-- **Records with kupa affiliation:** 866
-- **MOH-MedReviews matched with kupa:** 431 (after name order fix)
+- **Total records:** ~74,000+
+- **Unique doctors:** ~65,000+
+- **Records with kupa affiliation:** 866 (insufficient - target: ~40,000)
+- **MOH-MedReviews matched with kupa:** 1,148 (after name order fix)
+- **IMA doctors collected:** 5,964
+- **Cross-dataset matches:** 1,263 IMA-MOH, 125 IMA-MedReviews
 
 ### 1.2 Critical Finding: Hebrew Name Order
 - **MOH format:** `LAST FIRST` (e.g., "זילבר משה")
@@ -23,13 +34,14 @@ This report presents a comprehensive dataset of doctors in Israel, with a focus 
 - **Before fix:** Only 14 matches
 - **After fix:** 1,148 matches (82x improvement!)
 
-### 1.2 Data Sources
+### 1.3 Data Sources
 
 | Source | Records | Description |
 |--------|---------|-------------|
 | MOH License Database | 62,818 | Official Ministry of Health licensed doctor registry |
-| MedReviews | 2,801 | Doctor appointment platform with kupa affiliations |
-| Doctorim | 2,573 | Doctor scheduling site with kupa affiliations |
+| MedReviews | 2,820 | Doctor appointment platform with kupa affiliations |
+| Doctorim | 2,414 | Doctor scheduling site with kupa affiliations |
+| IMA (Israeli Medical Association) | 5,964 | IMA member directory |
 
 ### 1.3 Coverage by Kupa
 
@@ -138,9 +150,31 @@ This multi-affiliation pattern is consistent with the dual-practice phenomenon d
 
 ### 5.1 Coverage Limitations
 
-1. **Kupa Data Gap**: Only 866 doctors (1.3%) have documented kupa affiliations
+1. **Kupa Data Gap**: Only 866 doctors (1.3%) have documented kupa affiliations - FAR BELOW the ~40,000 doctors working in kupot
 2. **Source Coverage**: MedReviews and Doctorim represent doctors who list on appointment platforms, not all doctors
 3. **Name Matching**: MOH data and kupa data have low overlap due to different populations
+4. **Anti-Bot Blocking**: Major scraping targets (Maccabi, data.gov.il, Leumit) all use advanced anti-bot protection (Radware/Imperva)
+
+### 5.2 Anti-Bot Challenges Encountered
+
+| Target | Protection | Attempted Solutions |
+|--------|------------|---------------------|
+| data.gov.il | Imperva/Incapsula | curl, requests, camoufox, playwright |
+| Maccabi serek | Radware | camoufox, playwright (partial) |
+| Leumit | Unknown | requests (blocked) |
+| Clalit | Unknown | requests (blocked) |
+
+**Key finding:** Israeli health websites use sophisticated anti-bot systems that block automated data collection.
+
+### 5.3 Available Tools Tested
+
+| Tool | Status | Notes |
+|------|--------|-------|
+| requests | ❌ Blocked | Simple HTTP requests detected |
+| BeautifulSoup | N/A | HTML parser only |
+| camoufox | ⚠️ Partial | Stealth browser but slow |
+| playwright | ⚠️ Partial | Can bypass some protections but data loads dynamically |
+| selenium | ⚠️ Partial | Requires login for some sites |
 
 ### 5.2 Data Completeness
 
@@ -209,17 +243,52 @@ According to the 2024 Knesset Research Paper on dual-practice doctors:
 
 This dataset provides a foundation for analyzing doctor affiliations with Israeli health funds. Key findings:
 
-1. The dataset contains 65,619 records representing 62,818 MOH-licensed doctors plus 2,801 doctors from MedReviews/Doctorim platforms
-2. Only 866 doctors (1.3%) have documented kupa affiliations in the current data
+1. The dataset contains ~74,000 records representing 62,818 MOH-licensed doctors plus additional doctors from MedReviews, Doctorim, and IMA
+2. Only 866 doctors (1.3%) have documented kupa affiliations - **critically insufficient** for research requiring ~40,000 doctors
 3. Among doctors with kupa data, 85 are affiliated with all 4 kupot
-4. The data represents a subset of the ~40,000 doctors working in kupot, as reported by the Ministry of Health
+4. **MAJOR BLOCKER:** Advanced anti-bot systems (Radware/Imperva) prevent automated data collection from major Israeli health websites
+
+### Critical Gap
+
+The current dataset cannot support meaningful research on dual-practice doctors because:
+- Target: ~40,000 doctors with kupa affiliations
+- Current coverage: 866 doctors (2.2% of target)
+- Name-based matching alone is insufficient without unique identifiers (teudat_zehut)
+
+### Required Actions
+
+To complete this project, alternative data acquisition methods are needed:
+1. Formal data requests to Ministry of Health
+2. Direct partnership with Kupot Cholim
+3. Academic data sharing agreements
+4. Legal/freedom of information requests
 
 ### Recommendations for Future Work
 
-1. Expand kupa data collection to cover more doctors
-2. Obtain teudat_zehut for proper record linkage
-3. Cross-reference with tax authority data for dual-practice analysis
-4. Collect data directly from kupa websites
+1. **Expand kupa data collection to cover more doctors**
+   - Partner with kupot directly for data access
+   - Use official data requests (freedom of information)
+   - Consider legal channels for academic research data
+
+2. **Obtain teudat_zehut for proper record linkage**
+   - Currently no unique identifier linking datasets
+   - Name matching is probabilistic and error-prone
+
+3. **Cross-reference with tax authority data for dual-practice analysis**
+   - Income data from "atzmai" status
+   - Requires legal cooperation with tax authority
+
+4. **Collect data directly from kupa websites**
+   - May require login credentials
+   - Alternative: Request bulk data from Ministry of Health
+
+### 5.4 Potential Solutions to Explore
+
+1. **Government FOIA Request**: Request doctor affiliation data through formal channels
+2. **Academic Partnerships**: Partner with Israeli universities that may have data access agreements
+3. **Kupa Collaboration**: Approach kupot directly for research partnerships
+4. **Manual Data Entry**: If automated scraping fails, consider crowd-sourced data collection
+5. **Browser Extension**: Create a browser extension users can install to anonymously share kupa affiliation data
 
 ---
 
